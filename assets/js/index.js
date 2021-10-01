@@ -70,6 +70,10 @@ const viewMore = () => {
 // Entry Level
 sortByLatest();
 
+<<<<<<< HEAD
+=======
+//This snippet changes the colors when you click on the buttons and when you click on another button
+>>>>>>> fd8684223b3165de1a2862999c0fc90431c081db
 
 const button = document.querySelectorAll('button')
 
@@ -88,4 +92,9 @@ for (let index = 0; index < button.length; index++) {
   
 })
   
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> fd8684223b3165de1a2862999c0fc90431c081db
