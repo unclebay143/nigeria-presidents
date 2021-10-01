@@ -31,6 +31,7 @@ const renderPresidentProfile = async (presidents) => {
                 height="100%"
             />
         </div>
+        <div class="read-more"><h3>read more</h3></div>
         <div class="card-info">
             <h3 class="name">President ${name}</h3>
             <h3 class="tenure">From ${from} to ${to} ${isReasionAvailable}</h3>
