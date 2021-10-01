@@ -18,7 +18,9 @@
             "name":"unclebigbay",
             "github_url":"https://github.com/unclebay143",
             "extra_url": "unclebigbay.com"
-        }]
+        }],
+
+        "moreinfo" : "https://en.wikipedia.org/wiki/Muhammadu_Buhari"
     },
     {
         "no":"14",
@@ -38,7 +40,9 @@
             "name":"unclebigbay",
             "github_url":"https://github.com/unclebay143",
             "extra_url": "unclebigbay.com"
-        }]
+        }],
+
+        "moreinfo" : "https://en.wikipedia.org/wiki/Goodluck_Jonathan"
     },
     {
         "no":"13",
@@ -60,7 +64,9 @@
             "name":"unclebigbay",
             "github_url":"https://github.com/unclebay143",
             "extra_url": "unclebigbay.com"
-        }]
+        }],
+
+        "moreinfo" : "https://en.wikipedia.org/wiki/Umaru_Musa_Yar%27Adua"
     },
     {
         "no": "12",
@@ -80,7 +86,9 @@
             "name":"unclebigbay",
             "github_url":"https://github.com/unclebay143",
             "extra_url": "unclebigbay.com"
-        }]
+        }],
+
+        "moreinfo" : "https://en.wikipedia.org/wiki/Olusegun_Obasanjo"
     },
     {
         "no": "11",
@@ -100,7 +108,9 @@
             "name":"unclebigbay",
             "github_url":"https://github.com/unclebay143",
             "extra_url": "unclebigbay.com"
-        }]
+        }],
+
+        "moreinfo" : "https://en.wikipedia.org/wiki/Abdulsalami_Abubakar"
     },
 
     {
@@ -121,7 +131,9 @@
             "name":"Adeyemi",
             "github_url":"https://github.com/buhari44",
             "extra_url": "https://afrikatechboyportfolio.netlify.app/"
-        }]
+        }],
+
+        "moreinfo" : "https://en.wikipedia.org/wiki/Nnamdi_Azikiwe"
     }
 ]
 }
