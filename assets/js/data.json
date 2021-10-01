@@ -3,6 +3,7 @@
     {
         "no":"15",
         "name": "Muhammadu Buhari",
+        "tribe": "Hausa Fulani",
         "imgsrc": "President-Muhammadu-Buhari-President.jpg",
         "from": 2015,
         "to":"tilldate",
@@ -22,6 +23,7 @@
     {
         "no":"14",
         "name": "Dr. Goodluck Ebele Jonathan",
+        "tribe": "Igbo",
         "imgsrc": "President-Goodluck-Ebele-Jonathan.png",
         "from": 2011,
         "to": 2015,
@@ -41,6 +43,7 @@
     {
         "no":"13",
         "name": "Alhaji Umaru Musa Yar'Adua",
+        "tribe": "Hausa",
         "imgsrc": "President-Alhaji-Umaru-Musa-Yar'Adua.jpg",
         "from": 2007,
         "to": 2010,
@@ -62,6 +65,7 @@
     {
         "no": "12",
         "name": "Chief Olusegun Obasanjo",
+        "tribe": "Yoruba",
         "imgsrc": "President-Chief-Olusegun-Obasanjo.jpg",
         "from": 1999,
         "to":  2007,
@@ -81,6 +85,7 @@
     {
         "no": "11",
         "name": "General Abdulsalami Abubakar",
+        "tribe": "Hausa",
         "imgsrc": "President-General-Abdulsalami-Abubakar.jpg",
         "from": 1998,
         "to":  1999,
