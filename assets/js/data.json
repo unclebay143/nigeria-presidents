@@ -1,5 +1,25 @@
 {
     "presidents": [{
+            "no": "7",
+            "name": "Shehu Usman Aliyu Shagari",
+            "tribe": "Fulani",
+            "imgsrc": "President-Shehu-Shagari-President.jpg",
+            "from": 1979,
+            "to": 1983,
+            "reason": null,
+            "born": 1942,
+            "party": "National Party of Nigeria",
+            "diedInOffice": false,
+            "extra_information": [{
+                "bio": null
+            }],
+            "contributors": [{
+                "name": "poly4concept",
+                "github_url": "https://github.com/poly4concept",
+                "extra_url": "http://alhazanmubarak.me/my-portfolio/"
+            }]
+        },
+        {
             "no": "15",
             "name": "Muhammadu Buhari",
             "tribe": "Hausa Fulani",
