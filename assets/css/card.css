@@ -1,0 +1,71 @@
+/* *PROFILE SECTION */
+
+.profile-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  margin: 1rem;
+  width: 200px;
+  height: auto;
+  cursor: pointer;
+}
+
+.card-image {
+  height: 130px;
+}
+
+.card-image img {
+  height: 100%;
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+.card-info {
+  margin-top: 0.7rem;
+}
+
+.card-info h3 {
+  margin-bottom: 0.3rem;
+}
+
+.card-info .name {
+  font-size: 15px;
+  margin-bottom: 0.3rem;
+  margin-bottom: 0.5rem;
+  background: -webkit-linear-gradient(green, green);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.card-info .born {
+  font-size: 12px;
+}
+
+.card-info .tenure {
+  font-size: 13px;
+}
+
+.card-info .party {
+  font-size: 12px;
+}
+
+@media (max-width: 900px) {
+  .profile-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .card {
+    margin: 1rem;
+    width: 40%;
+    height: auto;
+  }
+}
