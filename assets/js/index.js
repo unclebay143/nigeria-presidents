@@ -84,3 +84,25 @@ const viewMore = () => {
 
 // Entry Level
 sortByLatest();
+
+//This snippet changes the colors when you click on the buttons and when you click on another button
+
+const button = document.querySelectorAll('button')
+
+
+for (let index = 0; index < button.length; index++) {
+  console.log(window.getComputedStyle(button[index]).backgroundColor)
+  const defColor = window.getComputedStyle(button[index]).backgroundColor
+  button[index].addEventListener('click', ()=>{
+      button[index].style.backgroundColor='green'
+    
+    
+  })
+  button[index].addEventListener('focusout', ()=>{
+    button[index].style.backgroundColor= defColor
+  
+  
+})
+  
+}
+
