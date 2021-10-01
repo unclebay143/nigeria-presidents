@@ -1,6 +1,26 @@
 {
     "presidents":[
     {
+        "no":"16",
+        "name": "General Sani Abacha",
+        "tribe": "",
+        "imgsrc": "Sani_Abacha.jpg",
+        "from": 1993,
+        "to":1998,
+        "reason": null,
+        "born": 1943,
+        "party": "none (military)",
+        "diedInOffice": true,
+        "extra_information": [{
+            "bio": null
+        }],
+        "contributors" : [{
+            "name":"Nazmi Feeroz",
+            "github_url":"https://github.com/nazmifeeroz",
+            "extra_url": "ashmiq.dev"
+        }]
+    },
+    {
         "no":"15",
         "name": "Muhammadu Buhari",
         "tribe": "Hausa Fulani",
