@@ -53,6 +53,8 @@ const sortByLatest = async () => {
   // Sort the president list from new to old
   const sortByLatest = presidents.sort((a, b) => b.from - a.from);
   renderPresidentProfile(sortByLatest);
+  //setting Styles
+  setButtonStyle([true, false]);
 };
 
 /* SORTING AREA*/
@@ -63,6 +65,15 @@ const sortByOld = async () => {
   const sortByOldest = presidents.sort((a, b) => a.from - b.from);
   // Render the president profile to the ui
   renderPresidentProfile(sortByOldest);
+  //setting Styles
+  setButtonStyle([false, true]);
+};
+
+const setButtonStyle = (styles) => {
+  const buttons = document.querySelectorAll('.sorting-btn button');
+  buttons.forEach((button, index) => {
+    button.style.background = styles[index] ? 'green' : null;
+  });
 };
 
 const viewMore = () => {
