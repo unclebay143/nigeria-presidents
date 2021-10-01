@@ -74,6 +74,7 @@ nav {
   border-radius: 5px;
   padding: 0.3rem 0.5rem;
   cursor: pointer;
+  white-space: nowrap;
 }
 
 footer {
@@ -105,5 +106,12 @@ footer {
       ),
       url("./../portraits/Nigerian-Presidents.jpg");
     background-size: contain;
+  }
+}
+
+@media (max-width: 400px) {
+  .sorting-btn button {
+    width: 80%;
+    padding: 0.5rem;
   }
 }
