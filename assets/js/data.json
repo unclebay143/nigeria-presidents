@@ -173,14 +173,14 @@
     },
 
     {
-      "no": "14",
-      "name": "General-Ibrahim-Badamasi",
-      "imgsrc": "President-Ibrahim-Badamasi.jpg",
-      "from": 1985,
-      "to": 1993,
+      "no": "5",
+      "name": "Murtala Muhammed",
+      "imgsrc": "President-Murtala Muhammed.jpeg",
+      "from": 1975,
+      "to": 1976,
       "reason": null,
-      "born": 1941,
-      "party": "PDP",
+      "born": 1938,
+      "party": "none(Military)",
       "diedInOffice": true,
       "extra_information": [
         {
