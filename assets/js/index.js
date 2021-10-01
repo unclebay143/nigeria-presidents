@@ -56,9 +56,11 @@ const sortByLatest = async () => {
 
 /* SORTING AREA*/
 const sortByOld = async () => {
+  // Get the president from the fetch function
   const { presidents } = await fetchPresidentData();
-
+  // Sort the president list from old to new
   const sortByOldest = presidents.sort((a, b) => a.from - b.from);
+  // Render the president profile to the ui
   renderPresidentProfile(sortByOldest);
 };
 
