@@ -56,14 +56,14 @@ const sortByLatest = async () => {
 
 /* SORTING AREA*/
 const sortByOld = async () => {
-  document.querySelector(".message").innerText =
-    "It is open source, fix this button";
+  // document.querySelector(".message").innerText =
+    // "It is open source, fix this button";
 };
 
 const viewMore = () => {
   // TODO: users should be able to view more information about the president
-  document.querySelector(".message").innerText =
-    "Yes! you should be able to view more, you can fix this";
+  // document.querySelector(".message").innerText =
+    // "Yes! you should be able to view more, you can fix this";
 };
 
 
@@ -72,17 +72,20 @@ sortByLatest();
 
 
 const button = document.querySelectorAll('button')
-const defColor = document.querySelectorAll('button').style.backgroundColor
-console.log(defColor)
+
+
 for (let index = 0; index < button.length; index++) {
+  console.log(window.getComputedStyle(button[index]).backgroundColor)
+  // const defColor = window.getComputedStyle(button[index]).backgroundColor
   button[index].addEventListener('click', ()=>{
-    if (button[index].style.backgroundColor===defColor) {
       button[index].style.backgroundColor='green'
-    }
-    else{
-      button[index].style.backgroundColor=defColor
-    }
+    
     
   })
+  button[index].addEventListener('focusout', ()=>{
+    button[index].style.backgroundColor= 'rgba(39, 63, 39, 0.7)'
+  
+  
+})
   
 }
