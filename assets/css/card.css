@@ -11,6 +11,11 @@
   width: 200px;
   height: auto;
   cursor: pointer;
+  position: relative;
+}
+
+.card:hover {
+  opacity: 0.8;
 }
 
 .card-image {
@@ -22,12 +27,39 @@
   width: 100%;
   min-width: 100%;
   min-height: 100%;
-  border-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
   object-fit: cover;
 }
 
+.read-more {
+  position: absolute;
+  z-index: -100;
+  width: 100%;
+  height: 45%;
+  border-top: 0;
+  border: 0.8px solid green;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.read-more h3 {
+  text-align: center;
+  font-size: 15px;
+  text-transform: capitalize;
+}
+
 .card-info {
-  margin-top: 0.7rem;
+  padding-top: 0.7rem;
+  z-index: 2;
+  background: white;
+}
+
+.card-info:hover {
+  opacity: 0;
 }
 
 .card-info h3 {
@@ -36,7 +68,6 @@
 
 .card-info .name {
   font-size: 15px;
-  margin-bottom: 0.3rem;
   margin-bottom: 0.5rem;
   background: -webkit-linear-gradient(green, green);
   background-clip: text;
@@ -67,5 +98,10 @@
     margin: 1rem;
     width: 40%;
     height: auto;
+  }
+
+  /* no need for read more button  */
+  .read-more {
+    /* display: none; */
   }
 }
