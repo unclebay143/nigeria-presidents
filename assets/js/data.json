@@ -170,6 +170,30 @@
           "extra_url": "https://afrikatechboyportfolio.netlify.app/"
         }
       ]
+    },
+
+    {
+      "no": "14",
+      "name": "Dr. Goodluck Ebele Jonathan",
+      "imgsrc": "President-Ibrahim-Badamasi.jpg",
+      "from": 1985,
+      "to": 1993,
+      "reason": null,
+      "born": 1941,
+      "party": "PDP",
+      "diedInOffice": true,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
     }
   ]
 }
