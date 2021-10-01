@@ -4,58 +4,84 @@
         "no":"15",
         "name": "Muhammadu Buhari",
         "imgsrc": "President-Muhammadu-Buhari-President.jpg",
-        "from": "2015",
-        "to":"till date",
+        "from": 2015,
+        "to":"tilldate",
         "reason": null,
-        "born": "1942",
+        "born": 1942,
         "party": "APC",
-        "diedInOffice": false
+        "diedInOffice": false,
+        "contributors" : [{
+            "name":"unclebigbay",
+            "url":"https://github.com/unclebay143"
+            
+        }]
     },
     {
         "no":"14",
         "name": "Dr. Goodluck Ebele Jonathan",
         "imgsrc": "President-Goodluck-Ebele-Jonathan.png",
-        "from": "2011",
-        "to": "2015",
+        "from": 2011,
+        "to": 2015,
         "reason": null,
-        "born": "1957",
+        "born": 1957,
         "party": "PDP",
-        "diedInOffice": false
+        "diedInOffice": false,
+        "contributors" : [{
+            "name":"unclebigbay",
+            "url":"https://github.com/unclebay143"
+            
+        }]
     },
     {
         "no":"13",
         "name": "Alhaji Umaru Musa Yar'Adua",
         "imgsrc": "President-Alhaji-Umaru-Musa-Yar'Adua.jpg",
-        "from": "2007",
-        "to": "2010",
+        "from": 2007,
+        "to": 2010,
         "reason": null,
-        "born": "1951",
+        "born": 1951,
         "party": "PDP",
         "diedInOffice": true,
-        "dateofdeath": "2010",
-        "causeofdeath": "Sickness"
+        "dateofdeath": 2010,
+        "causeofdeath": "Sickness",
+        "contributors" : [{
+            "name":"unclebigbay",
+            "url":"https://github.com/unclebay143"
+            
+        }]
     },
     {
         "no": "12",
         "name": "Chief Olusegun Obasanjo",
         "imgsrc": "President-Chief-Olusegun-Obasanjo.jpg",
-        "from": "1999",
-        "to":  "2007",
+        "from": 1999,
+        "to":  2007,
         "reason": null,
-        "born": "1937",
+        "born": 1937,
         "party": "APC",
-        "diedInOffice": false
+        "diedInOffice": false,
+        "contributors" : [{
+            "name":"unclebigbay",
+            "github_url":"https://github.com/unclebay143"
+            
+        }]
     },
     {
         "no": "11",
         "name": "General Abdulsalami Abubakar",
         "imgsrc": "President-General-Abdulsalami-Abubakar.jpg",
-        "from": "1998",
-        "to":  "1999",
+        "from": 1998,
+        "to":  1999,
         "reason": "resigned",
-        "born": "1942",
+        "born": 1942,
         "party": "PRC",
-        "diedInOffice": false
+        "diedInOffice": false,
+        "contributors" : [{
+            "name":"unclebigbay",
+            "github_url":"https://github.com/unclebay143"
+
+            
+        }]
     }
 ]
 }
