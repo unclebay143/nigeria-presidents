@@ -121,6 +121,46 @@
                 "extra_url": "https://eunit99.github.io/"
             }]
         },
+                   {
+            "no": "9",
+            "name": "Chief Ernest Shonekan",
+            "tribe": "Ibo",
+            "imgsrc": "Ernest-Shonekan-President.jpg",
+            "from": 1993,
+            "to": 1993,
+            "reason": "deposed",
+            "born": 1936,
+            "party": "Independent",
+            "diedInOffice": false,
+            "extra_information": [{
+                "bio": "Chief Ernest Adegunle Oladeinde Shonekan GCFR (born 9 May 1936), titled Abese of Egbaland from 1981 (in addition to a variety of other chieftaincy titles),[1] is a Nigerian lawyer and statesman who served as the interim Head of State of Nigeria from 26 August 1993 to 17 November 1993."
+            }],
+            "contributors": [{
+                "name": "Anushka",
+                "github_url": "https://github.com/Anushh23",
+                "extra_url": null
+            }]
+        },
+        {
+            "no": "8",
+            "name": "General Ibrahim Babangida",
+            "tribe": "Ibo",
+            "imgsrc": "General_Ibrahim_B-President.jpg",
+            "from": 1985,
+            "to": 1993,
+            "reason": "resigned",
+            "born": 1941,
+            "party": "PDP Peoples Democratic Party",
+            "diedInOffice": false,
+            "extra_information": [{
+                "bio": "Ibrahim Badamasi Babangida GCFR (born 17 August 1941) is a retired Nigerian Army general and politician. He served as military president of Nigeria from 1985 until his resignation in 1993. He rose through the ranks to serve from 1984 to 1985 as Chief of Army Staff; going on to orchestrate his seizure of power in a palace coup d'ètat against Muhammadu Buhari."
+            }],
+            "contributors": [{
+                "name": "Anushka",
+                "github_url": "https://github.com/Anushh23",
+                "extra_url": null
+            }]
+        },
         {
             "no": "2",
             "name": "Chief Nnamdi Azikwe",
