@@ -105,13 +105,14 @@
     height: auto;
   }
 
-  /* ? is there a need for read more button on small devices */
   .read-more {
+    height: 40%;
+    /* ? is there a need for read more button on small devices */
     /* display: none; */
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 320px) {
   .card {
     width: 80%;
   }
