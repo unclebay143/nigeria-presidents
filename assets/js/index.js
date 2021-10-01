@@ -76,6 +76,19 @@ const setButtonStyle = (styles) => {
   });
 };
 
+// const setButtonStyle = () => {
+//   const buttons = document.querySelectorAll(".sorting-btn button");
+
+//   for (let index = 0; index < buttons.length; index++) {
+//     buttons[index].addEventListener("click", () => {
+//       buttons[index].style.backgroundColor = "green";
+//     });
+//     buttons[index].addEventListener("focusout", () => {
+//       buttons[index].style.backgroundColor = "rgba(39, 63, 39, 0.7)";
+//     });
+//   }
+// };
+
 const viewMore = () => {
   // TODO: users should be able to view more information about the president
   document.querySelector(".message").innerText =
