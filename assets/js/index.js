@@ -73,3 +73,23 @@ const viewMore = () => {
 
 // Entry Level
 sortByLatest();
+
+var buttonL = document.querySelector('.buttonLatest');
+
+var buttonO = document.querySelector('.buttonOld');
+
+buttonL.onclick = function () {
+
+ this.style.backgroundColor = "green";
+
+  buttonO.style.backgroundColor= "grey";
+
+};
+
+buttonO.onclick = function (){
+
+  this.style.backgroundColor = "green";
+
+  buttonL.style.backgroundColor= "grey";
+
+  }
