@@ -50,7 +50,10 @@ Note ⚠: There is no endpoint to get the list of all the Nigeria president but 
 
 7.🏁 Check the `data.json` file and add the president profile as shown in _figure 1.2_ below 👇  
 
-![readMe-image](https://user-images.githubusercontent.com/58919619/135594334-97b64b95-1d8c-448c-8af8-acad4d589028.png)
+PS: you can add more information about the president that is not stated in the object under `extra_information`
+
+![readMe-image](https://user-images.githubusercontent.com/58919619/135597758-bd6093c2-8278-4e7d-9c4d-f777a860eaee.png)
+
 _figure 1.2 sample of president profile in json_    
 
 8. 🌟 Save the `data.json` and check your changes on your browser    
