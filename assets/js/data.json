@@ -1,106 +1,175 @@
 {
-    "presidents":[
+  "presidents": [
     {
-        "no":"15",
-        "name": "Muhammadu Buhari",
-        "tribe": "Hausa Fulani",
-        "imgsrc": "President-Muhammadu-Buhari-President.jpg",
-        "from": 2015,
-        "to":"tilldate",
-        "reason": null,
-        "born": 1942,
-        "party": "APC",
-        "diedInOffice": false,
-        "extra_information": [{
-            "bio": null
-        }],
-        "contributors" : [{
-            "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143",
-            "extra_url": "unclebigbay.com"
-        }]
+      "no": "15",
+      "name": "Muhammadu Buhari",
+      "tribe": "Hausa Fulani",
+      "imgsrc": "President-Muhammadu-Buhari-President.jpg",
+      "from": 2015,
+      "to": "tilldate",
+      "reason": null,
+      "born": 1942,
+      "party": "APC",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
     },
     {
-        "no":"14",
-        "name": "Dr. Goodluck Ebele Jonathan",
-        "tribe": "Igbo",
-        "imgsrc": "President-Goodluck-Ebele-Jonathan.png",
-        "from": 2011,
-        "to": 2015,
-        "reason": null,
-        "born": 1957,
-        "party": "PDP",
-        "diedInOffice": false,
-        "extra_information": [{
-            "bio": null
-        }],
-        "contributors" : [{
-            "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143",
-            "extra_url": "unclebigbay.com"
-        }]
+      "no": "14",
+      "name": "Dr. Goodluck Ebele Jonathan",
+      "tribe": "Igbo",
+      "imgsrc": "President-Goodluck-Ebele-Jonathan.png",
+      "from": 2011,
+      "to": 2015,
+      "reason": null,
+      "born": 1957,
+      "party": "PDP",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
     },
     {
-        "no":"13",
-        "name": "Alhaji Umaru Musa Yar'Adua",
-        "tribe": "Hausa",
-        "imgsrc": "President-Alhaji-Umaru-Musa-Yar'Adua.jpg",
-        "from": 2007,
-        "to": 2010,
-        "reason": null,
-        "born": 1951,
-        "party": "PDP",
-        "diedInOffice": true,
-        "dateofdeath": 2010,
-        "causeofdeath": "Sickness",
-        "extra_information": [{
-            "bio": null
-        }],
-        "contributors" : [{
-            "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143",
-            "extra_url": "unclebigbay.com"
-        }]
+      "no": "13",
+      "name": "Alhaji Umaru Musa Yar'Adua",
+      "tribe": "Hausa",
+      "imgsrc": "President-Alhaji-Umaru-Musa-Yar'Adua.jpg",
+      "from": 2007,
+      "to": 2010,
+      "reason": null,
+      "born": 1951,
+      "party": "PDP",
+      "diedInOffice": true,
+      "dateofdeath": 2010,
+      "causeofdeath": "Sickness",
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
     },
     {
-        "no": "12",
-        "name": "Chief Olusegun Obasanjo",
-        "tribe": "Yoruba",
-        "imgsrc": "President-Chief-Olusegun-Obasanjo.jpg",
-        "from": 1999,
-        "to":  2007,
-        "reason": null,
-        "born": 1937,
-        "party": "APC",
-        "diedInOffice": false,
-        "extra_information": [{
-            "bio": null
-        }],
-        "contributors" : [{
-            "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143",
-            "extra_url": "unclebigbay.com"
-        }]
+      "no": "12",
+      "name": "Chief Olusegun Obasanjo",
+      "tribe": "Yoruba",
+      "imgsrc": "President-Chief-Olusegun-Obasanjo.jpg",
+      "from": 1999,
+      "to": 2007,
+      "reason": null,
+      "born": 1937,
+      "party": "APC",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
     },
     {
-        "no": "11",
-        "name": "General Abdulsalami Abubakar",
-        "tribe": "Hausa",
-        "imgsrc": "President-General-Abdulsalami-Abubakar.jpg",
-        "from": 1998,
-        "to":  1999,
-        "reason": "resigned",
-        "born": 1942,
-        "party": "PRC",
-        "diedInOffice": false,
-        "extra_information": [{
-            "bio": null
-        }],
-        "contributors" : [{
-            "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143",
-            "extra_url": "unclebigbay.com"
-        }]
+      "no": "11",
+      "name": "General Abdulsalami Abubakar",
+      "tribe": "Hausa",
+      "imgsrc": "President-General-Abdulsalami-Abubakar.jpg",
+      "from": 1998,
+      "to": 1999,
+      "reason": "resigned",
+      "born": 1942,
+      "party": "PRC",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
+    },
+    {
+      "no": "10",
+      "name": "General Sani Abacha",
+      "tribe": "Hausa",
+      "imgsrc": "President-Sani-Abacha.jpg",
+      "from": 1993,
+      "to": 1998,
+      "reason": null,
+      "born": 1943,
+      "party": "None (Military)",
+      "diedInOffice": true,
+      "extra_information": [
+        {
+          "bio": "Sani Abacha, was a Nigerian militarty leader, who served as head of state (1993 - 1998). Abacha received his formal military training at the Nigerian and British military training colleges. He r0ose through the ranks in the Nigerian military and by 1983 had achieved the rank of brigadier when he assisted Ibrahim Babangida in overthrowing Shehu Shagari, who had been elected to his second presidential term in 1983."
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Eunit",
+          "github_url": "https://github.com/eunit99",
+          "extra_url": "https://eunit99.github.io/"
+        }
+      ]
+    },
+
+    {
+      "no": "2",
+      "name": "Chief Nnamdi Azikwe",
+      "tribe": "Igbo",
+      "imgsrc": "President-Nnamdi-Azikwe.jpg",
+      "from": 1963,
+      "to": 1966,
+      "reason": null,
+      "born": 1904,
+      "party": "NCNCN",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Adeyemi",
+          "github_url": "https://github.com/buhari44",
+          "extra_url": "https://afrikatechboyportfolio.netlify.app/"
+        }
+      ]
     },
     {
         "no": "9",
@@ -122,5 +191,5 @@
             "extra_url": "https://oladimejiayodeji.netlify.app"
         }]
     }
-]
+  ]
 }

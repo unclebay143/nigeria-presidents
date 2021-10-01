@@ -31,6 +31,7 @@ const renderPresidentProfile = async (presidents) => {
                 height="100%"
             />
         </div>
+        <div class="read-more"><h3>read more</h3></div>
         <div class="card-info">
             <h3 class="name">President ${name}</h3>
             <h3 class="tenure">From ${from} to ${to} ${isReasionAvailable}</h3>
@@ -52,6 +53,8 @@ const sortByLatest = async () => {
   // Sort the president list from new to old
   const sortByLatest = presidents.sort((a, b) => b.from - a.from);
   renderPresidentProfile(sortByLatest);
+  // change button color
+  setButtonStyle();
 };
 
 /* SORTING AREA*/
@@ -62,8 +65,24 @@ const sortByOld = async () => {
   const sortByOldest = presidents.sort((a, b) => a.from - b.from);
   // Render the president profile to the ui
   renderPresidentProfile(sortByOldest);
+  // change button color
+  setButtonStyle();
 };
 
+// scalable
+const setButtonStyle = () => {
+  const buttons = document.querySelectorAll(".sorting-btn button");
+  for (let index = 0; index < buttons.length; index++) {
+    buttons[index].addEventListener("click", () => {
+      buttons[index].style.backgroundColor = "green";
+    });
+    buttons[index].addEventListener("focusout", () => {
+      buttons[index].style.backgroundColor = "rgba(39, 63, 39, 0.7)";
+    });
+  }
+};
+
+//
 const viewMore = () => {
   // TODO: users should be able to view more information about the president
   document.querySelector(".message").innerText =
