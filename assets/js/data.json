@@ -10,6 +10,9 @@
         "born": 1942,
         "party": "APC",
         "diedInOffice": false,
+        "extra_information": [{
+            "bio": null
+        }],
         "contributors" : [{
             "name":"unclebigbay",
             "github_url":"https://github.com/unclebay143",
@@ -26,6 +29,9 @@
         "born": 1957,
         "party": "PDP",
         "diedInOffice": false,
+        "extra_information": [{
+            "bio": null
+        }],
         "contributors" : [{
             "name":"unclebigbay",
             "github_url":"https://github.com/unclebay143",
@@ -44,6 +50,9 @@
         "diedInOffice": true,
         "dateofdeath": 2010,
         "causeofdeath": "Sickness",
+        "extra_information": [{
+            "bio": null
+        }],
         "contributors" : [{
             "name":"unclebigbay",
             "github_url":"https://github.com/unclebay143",
@@ -60,6 +69,9 @@
         "born": 1937,
         "party": "APC",
         "diedInOffice": false,
+        "extra_information": [{
+            "bio": null
+        }],
         "contributors" : [{
             "name":"unclebigbay",
             "github_url":"https://github.com/unclebay143",
@@ -76,6 +88,9 @@
         "born": 1942,
         "party": "PRC",
         "diedInOffice": false,
+        "extra_information": [{
+            "bio": null
+        }],
         "contributors" : [{
             "name":"unclebigbay",
             "github_url":"https://github.com/unclebay143",
