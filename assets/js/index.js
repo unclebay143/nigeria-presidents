@@ -53,8 +53,8 @@ const sortByLatest = async () => {
   // Sort the president list from new to old
   const sortByLatest = presidents.sort((a, b) => b.from - a.from);
   renderPresidentProfile(sortByLatest);
-  //setting Styles
-  setButtonStyle([true, false]);
+  // change button color
+  setButtonStyle();
 };
 
 /* SORTING AREA*/
@@ -65,30 +65,24 @@ const sortByOld = async () => {
   const sortByOldest = presidents.sort((a, b) => a.from - b.from);
   // Render the president profile to the ui
   renderPresidentProfile(sortByOldest);
-  //setting Styles
-  setButtonStyle([false, true]);
+  // change button color
+  setButtonStyle();
 };
 
-const setButtonStyle = (styles) => {
+// scalable
+const setButtonStyle = () => {
   const buttons = document.querySelectorAll(".sorting-btn button");
-  buttons.forEach((button, index) => {
-    button.style.background = styles[index] ? "green" : null;
-  });
+  for (let index = 0; index < buttons.length; index++) {
+    buttons[index].addEventListener("click", () => {
+      buttons[index].style.backgroundColor = "green";
+    });
+    buttons[index].addEventListener("focusout", () => {
+      buttons[index].style.backgroundColor = "rgba(39, 63, 39, 0.7)";
+    });
+  }
 };
 
-// const setButtonStyle = () => {
-//   const buttons = document.querySelectorAll(".sorting-btn button");
-
-//   for (let index = 0; index < buttons.length; index++) {
-//     buttons[index].addEventListener("click", () => {
-//       buttons[index].style.backgroundColor = "green";
-//     });
-//     buttons[index].addEventListener("focusout", () => {
-//       buttons[index].style.backgroundColor = "rgba(39, 63, 39, 0.7)";
-//     });
-//   }
-// };
-
+//
 const viewMore = () => {
   // TODO: users should be able to view more information about the president
   document.querySelector(".message").innerText =
@@ -97,25 +91,3 @@ const viewMore = () => {
 
 // Entry Level
 sortByLatest();
-
-//This snippet changes the colors when you click on the buttons and when you click on another button
-
-const button = document.querySelectorAll('button')
-
-
-for (let index = 0; index < button.length; index++) {
-  console.log(window.getComputedStyle(button[index]).backgroundColor)
-  const defColor = window.getComputedStyle(button[index]).backgroundColor
-  button[index].addEventListener('click', ()=>{
-      button[index].style.backgroundColor='green'
-    
-    
-  })
-  button[index].addEventListener('focusout', ()=>{
-    button[index].style.backgroundColor= defColor
-  
-  
-})
-  
-}
-
