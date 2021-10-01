@@ -73,6 +73,7 @@ sortByLatest();
 
 const button = document.querySelectorAll('button')
 const defColor = document.querySelectorAll('button').style.backgroundColor
+console.log(defColor)
 for (let index = 0; index < button.length; index++) {
   button[index].addEventListener('click', ()=>{
     if (button[index].style.backgroundColor===defColor) {
