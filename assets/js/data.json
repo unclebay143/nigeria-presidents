@@ -12,8 +12,8 @@
         "diedInOffice": false,
         "contributors" : [{
             "name":"unclebigbay",
-            "url":"https://github.com/unclebay143"
-            
+            "github_url":"https://github.com/unclebay143",
+            "extra_url": "unclebigbay.com"
         }]
     },
     {
@@ -28,8 +28,8 @@
         "diedInOffice": false,
         "contributors" : [{
             "name":"unclebigbay",
-            "url":"https://github.com/unclebay143"
-            
+            "github_url":"https://github.com/unclebay143",
+            "extra_url": "unclebigbay.com"
         }]
     },
     {
@@ -46,8 +46,8 @@
         "causeofdeath": "Sickness",
         "contributors" : [{
             "name":"unclebigbay",
-            "url":"https://github.com/unclebay143"
-            
+            "github_url":"https://github.com/unclebay143",
+            "extra_url": "unclebigbay.com"
         }]
     },
     {
@@ -62,8 +62,8 @@
         "diedInOffice": false,
         "contributors" : [{
             "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143"
-            
+            "github_url":"https://github.com/unclebay143",
+            "extra_url": "unclebigbay.com"
         }]
     },
     {
@@ -78,9 +78,8 @@
         "diedInOffice": false,
         "contributors" : [{
             "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143"
-
-            
+            "github_url":"https://github.com/unclebay143",
+            "extra_url": "unclebigbay.com"
         }]
     }
 ]
