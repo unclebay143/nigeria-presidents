@@ -101,6 +101,26 @@
             "github_url":"https://github.com/unclebay143",
             "extra_url": "unclebigbay.com"
         }]
+    },
+    {
+        "no": "10",
+        "name": "General Ibrahim Babangida",
+        "tribe": "Gwari",
+        "imgsrc": "President-General-Ibrahim-Babangida.jpg",
+        "from": 1985,
+        "to":  1993,
+        "reason": "resigned",
+        "born": 1941,
+        "party": "PDP",
+        "diedInOffice": false,
+        "extra_information": [{
+            "bio": "Ibrahim Babangida was born on 17 August 1941 in Minna to his father, Muhammad Babangida and mother Aisha Babangida. He received early Islamic education before attending primary school from 1950 to 1956. From 1957 to 1962 Babangida attended Government College Bida, together with classmates Abdulsalami Abubakar, Mamman Vatsa, Mohammed Magoro, Sani Bello, Garba Duba, Gado Nasko, and Mohammed Sani Sami. Babangida joined the Nigerian Army on 10 December 1962, where he attended the Nigerian Military Training College in Kaduna. Babangida received his commission as a second lieutenant as a regular combatant officer in the Royal Nigerian Army (a month before it became the Nigerian Army) with the personal army number N/438 from the Indian Military Academy on 26 September 1963. Babangida attended the Indian Military Academy from April to September 1963. He was Commanding Officer of 1 Reconnaissance Squadron from 1964 to 1966. From January 1966 to April 1966, Babangida attended the Younger Officers Course at the Royal Armoured Center in the United Kingdom - where he received instruction in gunnery and the Saladin armored car. Lieutenant Babangida was posted with the 1st Reconnaissance Squadron in Kaduna and witnessed the events of the bloody coup d'état of 1966, which resulted in the assassination of Sir Ahmadu Bello. Alongside several young officers from Northern Nigeria, he took part in the July counter-coup led by Murtala Mohammed which ousted General Aguiyi Ironsi replacing him with General Yakubu Gowon."
+        }],
+        "contributors" : [{
+            "name":"LayoBright",
+            "github_url":"https://github.com/Ayodejioladimeji",
+            "extra_url": "https://oladimejiayodeji.netlify.app"
+        }]
     }
 ]
 }
