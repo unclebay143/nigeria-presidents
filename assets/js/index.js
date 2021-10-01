@@ -70,9 +70,9 @@ const sortByOld = async () => {
 };
 
 const setButtonStyle = (styles) => {
-  const buttons = document.querySelectorAll('.sorting-btn button');
+  const buttons = document.querySelectorAll(".sorting-btn button");
   buttons.forEach((button, index) => {
-    button.style.background = styles[index] ? 'green' : null;
+    button.style.background = styles[index] ? "green" : null;
   });
 };
 
