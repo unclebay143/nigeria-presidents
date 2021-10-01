@@ -19,26 +19,6 @@
                 "extra_url": "http://alhazanmubarak.me/my-portfolio/"
             }]
         },
-        {
-            "no": "15",
-            "name": "Muhammadu Buhari",
-            "tribe": "Hausa Fulani",
-            "imgsrc": "President-Muhammadu-Buhari-President.jpg",
-            "from": 2015,
-            "to": "tilldate",
-            "reason": null,
-            "born": 1942,
-            "party": "APC",
-            "diedInOffice": false,
-            "extra_information": [{
-                "bio": null
-            }],
-            "contributors": [{
-                "name": "unclebigbay",
-                "github_url": "https://github.com/unclebay143",
-                "extra_url": "unclebigbay.com"
-            }]
-        },
     {
       "no": "15",
       "name": "Muhammadu Buhari",
