@@ -47,7 +47,7 @@ const renderPresidentProfile = async (presidents) => {
 
 /* SORTING AREA*/
 const sortByLatest = async () => {
-  changeColor('green');
+  this.style.backgroundColor = 'green';
   // Get the president from the fetch function
   const { presidents } = await fetchPresidentData();
   // Sort the president list from new to old
@@ -57,7 +57,7 @@ const sortByLatest = async () => {
 
 /* SORTING AREA*/
 const sortByOld = async () => {
-  changeColor('green');
+  this.style.backgroundColor = 'green';
   // Get the president from the fetch function
   const { presidents } = await fetchPresidentData();
   // Sort the president list from old to new
