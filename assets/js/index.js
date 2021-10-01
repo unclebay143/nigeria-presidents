@@ -56,8 +56,10 @@ const sortByLatest = async () => {
 
 /* SORTING AREA*/
 const sortByOld = async () => {
-  document.querySelector(".message").innerText =
-    "It is open source, fix this button";
+  const { presidents } = await fetchPresidentData();
+
+  const sortByOldest = presidents.sort((a, b) => a.from - b.from);
+  renderPresidentProfile(sortByOldest);
 };
 
 const viewMore = () => {
