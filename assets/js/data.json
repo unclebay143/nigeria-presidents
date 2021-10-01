@@ -101,6 +101,27 @@
             "github_url":"https://github.com/unclebay143",
             "extra_url": "unclebigbay.com"
         }]
+    },
+
+    {
+        "no": "1",
+        "name": "Dr Nnamdi Azikwe",
+        "tribe": "Igbo",
+        "imgsrc": "President-Nnamdi-Azikwe.jpg",
+        "from": 1963,
+        "to":  1966,
+        "reason": null,
+        "born": 1904,
+        "party": "NCNCN",
+        "diedInOffice": false,
+        "extra_information": [{
+            "bio": null
+        }],
+        "contributors" : [{
+            "name":"Adeyemi",
+            "github_url":"https://github.com/buhari44",
+            "extra_url": "https://afrikatechboyportfolio.netlify.app/"
+        }]
     }
 ]
 }
