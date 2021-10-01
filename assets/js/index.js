@@ -66,5 +66,15 @@ const viewMore = () => {
     "Yes! you should be able to view more, you can fix this";
 };
 
+
 // Entry Level
 sortByLatest();
+
+
+const button = document.querySelectorAll('button')
+for (let index = 0; index < button.length; index++) {
+  button[index].addEventListener('click', ()=>{
+    button[index].style.backgroundColor='green'
+  })
+  
+}
