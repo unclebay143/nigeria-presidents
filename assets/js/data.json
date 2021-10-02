@@ -292,6 +292,31 @@
         ],
 
         "moreinfo" : "Nnamdi Azikiwe, (born November 16, 1904, Zungeru, Nigeria—died May 11, 1996, Enugu), first president of independent Nigeria (1963–66) and prominent nationalist figure. Azikiwe attended various primary and secondary mission schools in Onitsha, Calabar, and Lagos. He arrived in the United States in 1925, where he attended several schools. Azikiwe earned multiple certificates and degrees, including bachelor’s and master’s degrees from Lincoln University in Pennsylvania and a second master’s degree from the University of Pennsylvania. In 1934 he went to the Gold Coast (now Ghana), where he founded a nationalist newspaper and was a mentor to Kwame Nkrumah (later the first president of Ghana) before returning to Nigeria in 1937. There he founded and edited newspapers and also became directly involved in politics, first with the Nigerian Youth Movement and later (1944) as a founder of the National Council of Nigeria and the Cameroons (NCNC), which became increasingly identified with the Igbo people of southern Nigeria after 1951. In 1948, with the backing of the NCNC, Azikiwe was elected to the Nigerian Legislative Council, and he later served as premier of the Eastern region (1954–59)."
+      },
+      {
+        "no": "1",
+        "name": "Ernest Shonekan",
+        "tribe": "Igbo",
+        "imgsrc": "Ernest_Shonekan.jpg",
+        "from": 1993,
+        "to": 1993,
+        "reason": "overthrown",
+        "born": 1936,
+        "party": "Independent",
+        "diedInOffice": false,
+        "extra_information": [
+          {
+            "bio": null
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Nazmi Feeroz",
+            "github_url": "https://github.com/nazmifeeroz"
+          }
+        ],
+
+        "moreinfo" : "Chief Ernest Adegunle Oladeinde Shonekan GCFR (born 9 May 1936), titled Abese of Egbaland from 1981 (in addition to a variety of other chieftaincy titles),[1] is a Nigerian lawyer and statesman who served as the interim Head of State of Nigeria from 26 August 1993 to 17 November 1993."
       }
     ]
   }
