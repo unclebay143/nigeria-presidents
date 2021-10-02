@@ -49,6 +49,7 @@ main {
 #js-president-name {
   color: var(--primary-color);
   margin-bottom: 2rem;
+  text-align: center;
 }
 
 #president-img {
@@ -75,4 +76,15 @@ main {
   text-decoration: none;
   font-weight: 700;
   color: var(--primary-color);
+}
+
+@media (max-width: 900px) {
+  .top-nav {
+    font-size: 10px;
+  }
+
+  
+.president {
+  min-height: 100vh;
+  width: 90%;
 }
