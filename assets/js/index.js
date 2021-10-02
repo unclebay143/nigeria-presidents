@@ -14,14 +14,24 @@ const renderPresidentProfile = async (presidents) => {
   //  loop profile into temp container
   presidents.forEach((president) => {
     //
-    const { name, imgsrc, from, to, reason, causeofdeath, born, party, moreinfo } =
-      president;
+    const {
+      name,
+      no,
+      imgsrc,
+      from,
+      to,
+      reason,
+      causeofdeath,
+      born,
+      party,
+      moreinfo,
+    } = president;
 
     const isReasionAvailable = reason ? `(${reason})` : "";
     const isDeceased = causeofdeath ? `(${causeofdeath})` : "";
     //
     temp += `
-    <div class="card" onclick="viewMore(this)">
+    <div class="card" onclick="viewMore('${no}')">
         <div class="card-image">
             <img
                 load="lazy"
@@ -31,7 +41,7 @@ const renderPresidentProfile = async (presidents) => {
                 height="100%"
             />
         </div>
-        <div class="read-more"><a href="${moreinfo}"><h3>read more</h3></a></div>
+        <div class="read-more"><h3>read more</h3></div>
         <div class="card-info">
             <h3 class="name">President ${name}</h3>
             <h3 class="tenure">From ${from} to ${to} ${isReasionAvailable}</h3>
@@ -65,27 +75,12 @@ const sortByOld = async () => {
   renderPresidentProfile(sortByOldest);
 };
 
-const viewMore = (e) => {
-  // TODO: users should be able to view more information about the president
-  // document.querySelector(".message").innerText =
-  //   "Yes! you should be able to view more, you can fix this";
-  // var href = e.childNodes[3].innerHTML;
-  
-  
-  var href = e.children[2].children[0].innerHTML;
-  
-  var imgsrc = e.children[0].children[0].getAttribute('src');
-  
-  var info = e.children[1].children[0].getAttribute("href");
-  console.log(href, imgsrc, info);
-
-
-  localStorage.setItem("name",href);
-  localStorage.setItem("imgsrc",imgsrc);
-  localStorage.setItem("info",info);
-  
-  window.open('../viewmore.html','_self');
-
+// view more function
+const viewMore = (presidentNumber) => {
+  // store the selected president number in LS
+  localStorage.setItem("viewing_president", JSON.stringify(presidentNumber));
+  // redirect user to the view-more page
+  window.open("./../public/view-more.html", "_self");
 };
 
 // Entry Level
