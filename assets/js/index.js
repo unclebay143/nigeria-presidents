@@ -70,9 +70,22 @@ const viewMore = (e) => {
   // document.querySelector(".message").innerText =
   //   "Yes! you should be able to view more, you can fix this";
   // var href = e.childNodes[3].innerHTML;
-  var href = e.children[1].children[0].getAttribute("href");
+  
+  
+  var href = e.children[2].children[0].innerHTML;
+  
+  var imgsrc = e.children[0].children[0].getAttribute('src');
+  
+  var info = e.children[1].children[0].getAttribute("href");
+  console.log(href, imgsrc, info);
 
-  window.open(href, "_blank");
+
+  localStorage.setItem("name",href);
+  localStorage.setItem("imgsrc",imgsrc);
+  localStorage.setItem("info",info);
+  
+  window.open('../viewmore.html','_self');
+
 };
 
 // Entry Level
