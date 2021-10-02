@@ -1,6 +1,29 @@
 {
   "presidents": [
     {
+      "no": "5",
+      "name": "Murtala Muhammed",
+      "imgsrc": "President-Murtala Muhammed.jpeg",
+      "from": 1975,
+      "to": 1976,
+      "reason": null,
+      "born": 1938,
+      "party": "none(Military)",
+      "diedInOffice": true,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
+    },
+    {
       "no": "15",
       "name": "Muhammadu Buhari",
       "tribe": "Hausa Fulani",
