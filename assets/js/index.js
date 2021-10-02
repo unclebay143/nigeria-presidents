@@ -14,14 +14,14 @@ const renderPresidentProfile = async (presidents) => {
   //  loop profile into temp container
   presidents.forEach((president) => {
     //
-    const { name, imgsrc, from, to, reason, causeofdeath, born, party, moreinfo } =
+    const { name, imgsrc, from, to, reason, causeofdeath, born, party } =
       president;
 
     const isReasionAvailable = reason ? `(${reason})` : "";
     const isDeceased = causeofdeath ? `(${causeofdeath})` : "";
     //
     temp += `
-    <div class="card" onclick="viewMore(this)">
+    <div class="card" onclick="viewMore()">
         <div class="card-image">
             <img
                 load="lazy"
@@ -31,7 +31,7 @@ const renderPresidentProfile = async (presidents) => {
                 height="100%"
             />
         </div>
-        <div class="read-more"><a href="${moreinfo}"><h3>read more</h3></a></div>
+        <div class="read-more"><h3>read more</h3></div>
         <div class="card-info">
             <h3 class="name">President ${name}</h3>
             <h3 class="tenure">From ${from} to ${to} ${isReasionAvailable}</h3>
@@ -53,6 +53,8 @@ const sortByLatest = async () => {
   // Sort the president list from new to old
   const sortByLatest = presidents.sort((a, b) => b.from - a.from);
   renderPresidentProfile(sortByLatest);
+  // change button color
+  setButtonStyle();
 };
 
 /* SORTING AREA*/
@@ -63,29 +65,28 @@ const sortByOld = async () => {
   const sortByOldest = presidents.sort((a, b) => a.from - b.from);
   // Render the president profile to the ui
   renderPresidentProfile(sortByOldest);
+  // change button color
+  setButtonStyle();
 };
 
-const viewMore = (e) => {
+// scalable
+const setButtonStyle = () => {
+  const buttons = document.querySelectorAll(".sorting-btn button");
+  for (let index = 0; index < buttons.length; index++) {
+    buttons[index].addEventListener("click", () => {
+      buttons[index].style.backgroundColor = "green";
+    });
+    buttons[index].addEventListener("focusout", () => {
+      buttons[index].style.backgroundColor = "rgba(39, 63, 39, 0.7)";
+    });
+  }
+};
+
+//
+const viewMore = () => {
   // TODO: users should be able to view more information about the president
-  // document.querySelector(".message").innerText =
-  //   "Yes! you should be able to view more, you can fix this";
-  // var href = e.childNodes[3].innerHTML;
-  
-  
-  var href = e.children[2].children[0].innerHTML;
-  
-  var imgsrc = e.children[0].children[0].getAttribute('src');
-  
-  var info = e.children[1].children[0].getAttribute("href");
-  console.log(href, imgsrc, info);
-
-
-  localStorage.setItem("name",href);
-  localStorage.setItem("imgsrc",imgsrc);
-  localStorage.setItem("info",info);
-  
-  window.open('../viewmore.html','_self');
-
+  document.querySelector(".message").innerText =
+    "Yes! you should be able to view more, you can fix this";
 };
 
 // Entry Level

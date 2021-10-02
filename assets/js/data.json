@@ -1,139 +1,270 @@
 {
-    "presidents":[
+  "presidents": [
     {
-        "no":"15",
-        "name": "Muhammadu Buhari",
-        "tribe": "Hausa Fulani",
-        "imgsrc": "President-Muhammadu-Buhari-President.jpg",
-        "from": 2015,
-        "to":"tilldate",
-        "reason": null,
-        "born": 1942,
-        "party": "APC",
-        "diedInOffice": false,
-        "extra_information": [{
-            "bio": null
-        }],
-        "contributors" : [{
-            "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143",
-            "extra_url": "unclebigbay.com"
-        }],
-
-        "moreinfo" : "Muhammadu Buhari, Muhammadu also spelled Muhammad, (born December 17, 1942, Daura, Nigeria), Nigerian military leader and politician who served as Nigeria’s head of state in 1984–85 and was democratically elected president in 2015.Educated largely in Katsina, Buhari took military training in Kaduna as well as in Great Britain, India, and the United States. He was involved in the military coup that ousted Yakubu Gowon in 1975 and was appointed military governor of North Eastern state (now Borno) that same year. He was appointed federal commissioner for petroleum resources by Gen. Olusegun Obasanjo, who became military head of state when Gowon’s successor, Murtala Mohammed, was assassinated in 1976. By 1977 Buhari had become the military secretary at Supreme Military Headquarters, which was the seat of government. By September 1979 he had returned to regular army duties and commanded a division based in Kaduna. Although civilian government had returned to Nigeria in 1979 with the election of Shehu Shagari, dissatisfaction with dismal economic conditions and what the military perceived as corrupt politicians led to another military coup on December 31, 1983, and Buhari was chosen unanimously to be the new head of state."
+      "no": "5",
+      "name": "Murtala Muhammed",
+      "imgsrc": "President-Murtala Muhammed.jpeg",
+      "from": 1975,
+      "to": 1976,
+      "reason": null,
+      "born": 1938,
+      "party": "none(Military)",
+      "diedInOffice": true,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
     },
     {
-        "no":"14",
-        "name": "Dr. Goodluck Ebele Jonathan",
-        "tribe": "Igbo",
-        "imgsrc": "President-Goodluck-Ebele-Jonathan.png",
-        "from": 2011,
-        "to": 2015,
-        "reason": null,
-        "born": 1957,
-        "party": "PDP",
-        "diedInOffice": false,
-        "extra_information": [{
-            "bio": null
-        }],
-        "contributors" : [{
-            "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143",
-            "extra_url": "unclebigbay.com"
-        }],
-
-        "moreinfo" : "His Excellency Dr Goodluck Ebele Jonathan President Federal Republic of Nigeria 2010-2015 was born in Otuoke Bayelsa State on November 20, 1957 He holds Bachelors Masters and Doctorate degrees in Zoology Hydrobiology and Fisheries Biology respectively; all obtained from the University of Port Harcourt, Rivers State, Nigeria. Before joining politics, Dr Jonathan served as a Science Inspector of Education, a lecturer, and later as an Assistant Director of the Directorate of Environmental Protection and Pollution Control in the defunct Oil Mineral Producing Areas Development Commission (now Niger Delta Development Commission)."
+      "no": "15",
+      "name": "Muhammadu Buhari",
+      "tribe": "Hausa Fulani",
+      "imgsrc": "President-Muhammadu-Buhari-President.jpg",
+      "from": 2015,
+      "to": "tilldate",
+      "reason": null,
+      "born": 1942,
+      "party": "APC",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
     },
     {
-        "no":"13",
-        "name": "Alhaji Umaru Musa Yar'Adua",
-        "tribe": "Hausa",
-        "imgsrc": "President-Alhaji-Umaru-Musa-Yar'Adua.jpg",
-        "from": 2007,
-        "to": 2010,
-        "reason": null,
-        "born": 1951,
-        "party": "PDP",
-        "diedInOffice": true,
-        "dateofdeath": 2010,
-        "causeofdeath": "Sickness",
-        "extra_information": [{
-            "bio": null
-        }],
-        "contributors" : [{
-            "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143",
-            "extra_url": "unclebigbay.com"
-        }],
-
-        "moreinfo" : "Born on 16 August 1951 and died on 5 May 2010. He was the 13th president of the Federal Republic of Nigeria. He was governor of Katsina State in northern Nigeria from 29 May 1999 to 28 May 2007. He was declared the winner of the 21 April 2007 Presidential Election and was sworn into office on 29th May 2007. He started his education at Rafukka Primary School in 1958, and moved to Dutsinma Boarding Primary School in 1962. He attended the Government College at Keffi from 1965 until 1969."
+      "no": "14",
+      "name": "Dr. Goodluck Ebele Jonathan",
+      "tribe": "Igbo",
+      "imgsrc": "President-Goodluck-Ebele-Jonathan.png",
+      "from": 2011,
+      "to": 2015,
+      "reason": null,
+      "born": 1957,
+      "party": "PDP",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
     },
     {
-        "no": "12",
-        "name": "Chief Olusegun Obasanjo",
-        "tribe": "Yoruba",
-        "imgsrc": "President-Chief-Olusegun-Obasanjo.jpg",
-        "from": 1999,
-        "to":  2007,
-        "reason": null,
-        "born": 1937,
-        "party": "APC",
-        "diedInOffice": false,
-        "extra_information": [{
-            "bio": null
-        }],
-        "contributors" : [{
-            "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143",
-            "extra_url": "unclebigbay.com"
-        }],
-
-        "moreinfo" : "Olusegun Obasanjo, (born March 5, 1937, Abeokuta, Nigeria), Nigerian general, statesman, and diplomat, who was the first military ruler in Africa to hand over power to a civilian government. He served as Nigeria’s military ruler (1976–79) and, as a civilian, as president (1999–2007). Obasanjo attended Baptist Boys’ High School in Abeokuta, in southwest Nigeria, and later worked as a teacher. Unable to afford college, he joined the army in 1958 and received officer training in England. Obasanjo rose quickly through the army ranks. During the Biafra conflict (1967–70) he was appointed to head a commando division that was stationed at the Biafran front in southeastern Nigeria. The conflict ended when Biafran forces surrendered to him in January 1970."
+      "no": "13",
+      "name": "Alhaji Umaru Musa Yar'Adua",
+      "tribe": "Hausa",
+      "imgsrc": "President-Alhaji-Umaru-Musa-Yar'Adua.jpg",
+      "from": 2007,
+      "to": 2010,
+      "reason": null,
+      "born": 1951,
+      "party": "PDP",
+      "diedInOffice": true,
+      "dateofdeath": 2010,
+      "causeofdeath": "Sickness",
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
     },
     {
-        "no": "11",
-        "name": "General Abdulsalami Abubakar",
-        "tribe": "Hausa",
-        "imgsrc": "President-General-Abdulsalami-Abubakar.jpg",
-        "from": 1998,
-        "to":  1999,
-        "reason": "resigned",
-        "born": 1942,
-        "party": "PRC",
-        "diedInOffice": false,
-        "extra_information": [{
-            "bio": null
-        }],
-        "contributors" : [{
-            "name":"unclebigbay",
-            "github_url":"https://github.com/unclebay143",
-            "extra_url": "unclebigbay.com"
-        }],
-
-        "moreinfo" : "Abdusalam Abubakar, Abdusalam also spelled Abdusalami or Abdulsalam, (born June 13, 1942, Minna, Nigeria), Nigerian military leader, who served as head of state (1998–99). Hailing from the middle belt of the country, Abubakar joined the army in 1975 and received his formal military training in the United States. He commanded Nigeria’s contingent of United Nations peacekeeping troops in Lebanon in 1981. By the late 1980s he was a senior officer and in 1993 was named defense chief of staff by General Sani Abacha, who became Nigeria’s military ruler in that year."
+      "no": "12",
+      "name": "Chief Olusegun Obasanjo",
+      "tribe": "Yoruba",
+      "imgsrc": "President-Chief-Olusegun-Obasanjo.jpg",
+      "from": 1999,
+      "to": 2007,
+      "reason": null,
+      "born": 1937,
+      "party": "APC",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
+    },
+    {
+      "no": "11",
+      "name": "General Abdulsalami Abubakar",
+      "tribe": "Hausa",
+      "imgsrc": "President-General-Abdulsalami-Abubakar.jpg",
+      "from": 1998,
+      "to": 1999,
+      "reason": "resigned",
+      "born": 1942,
+      "party": "PRC",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "unclebigbay",
+          "github_url": "https://github.com/unclebay143",
+          "extra_url": "unclebigbay.com"
+        }
+      ]
+    },
+    {
+      "no": "10",
+      "name": "General Sani Abacha",
+      "tribe": "Hausa",
+      "imgsrc": "President-Sani-Abacha.jpg",
+      "from": 1993,
+      "to": 1998,
+      "reason": null,
+      "born": 1943,
+      "party": "None (Military)",
+      "diedInOffice": true,
+      "extra_information": [
+        {
+          "bio": "Sani Abacha, was a Nigerian militarty leader, who served as head of state (1993 - 1998). Abacha received his formal military training at the Nigerian and British military training colleges. He r0ose through the ranks in the Nigerian military and by 1983 had achieved the rank of brigadier when he assisted Ibrahim Babangida in overthrowing Shehu Shagari, who had been elected to his second presidential term in 1983."
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Eunit",
+          "github_url": "https://github.com/eunit99",
+          "extra_url": "https://eunit99.github.io/"
+        }
+      ]
+    },
+    {
+      "no": "9",
+      "name": "General Ibrahim Babangida",
+      "tribe": "Gwari",
+      "imgsrc": "President-General-Ibrahim-Babangida.jpg",
+      "from": 1985,
+      "to": 1993,
+      "reason": "resigned",
+      "born": 1941,
+      "party": "PDP",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": "Ibrahim Babangida was born on 17 August 1941 in Minna to his father, Muhammad Babangida and mother Aisha Babangida. He received early Islamic education before attending primary school from 1950 to 1956. From 1957 to 1962 Babangida attended Government College Bida, together with classmates Abdulsalami Abubakar, Mamman Vatsa, Mohammed Magoro, Sani Bello, Garba Duba, Gado Nasko, and Mohammed Sani Sami. Babangida joined the Nigerian Army on 10 December 1962, where he attended the Nigerian Military Training College in Kaduna. Babangida received his commission as a second lieutenant as a regular combatant officer in the Royal Nigerian Army (a month before it became the Nigerian Army) with the personal army number N/438 from the Indian Military Academy on 26 September 1963. Babangida attended the Indian Military Academy from April to September 1963. He was Commanding Officer of 1 Reconnaissance Squadron from 1964 to 1966. From January 1966 to April 1966, Babangida attended the Younger Officers Course at the Royal Armoured Center in the United Kingdom - where he received instruction in gunnery and the Saladin armored car. Lieutenant Babangida was posted with the 1st Reconnaissance Squadron in Kaduna and witnessed the events of the bloody coup d'état of 1966, which resulted in the assassination of Sir Ahmadu Bello. Alongside several young officers from Northern Nigeria, he took part in the July counter-coup led by Murtala Mohammed which ousted General Aguiyi Ironsi replacing him with General Yakubu Gowon."
+        }
+      ],
+      "contributors": [
+        {
+          "name": "LayoBright",
+          "github_url": "https://github.com/Ayodejioladimeji",
+          "extra_url": "https://oladimejiayodeji.netlify.app"
+        }
+      ]
     },
 
     {
-        "no": "1",
-        "name": "Dr Nnamdi Azikwe",
-        "tribe": "Igbo",
-        "imgsrc": "President-Nnamdi-Azikwe.jpg",
-        "from": 1963,
-        "to":  1966,
-        "reason": null,
-        "born": 1904,
-        "party": "NCNCN",
-        "diedInOffice": false,
-        "extra_information": [{
-            "bio": null
-        }],
-        "contributors" : [{
-            "name":"Adeyemi",
-            "github_url":"https://github.com/buhari44",
-            "extra_url": "https://afrikatechboyportfolio.netlify.app/"
-        }],
-
-        "moreinfo" : "Nnamdi Azikiwe, (born November 16, 1904, Zungeru, Nigeria—died May 11, 1996, Enugu), first president of independent Nigeria (1963–66) and prominent nationalist figure. Azikiwe attended various primary and secondary mission schools in Onitsha, Calabar, and Lagos. He arrived in the United States in 1925, where he attended several schools. Azikiwe earned multiple certificates and degrees, including bachelor’s and master’s degrees from Lincoln University in Pennsylvania and a second master’s degree from the University of Pennsylvania. In 1934 he went to the Gold Coast (now Ghana), where he founded a nationalist newspaper and was a mentor to Kwame Nkrumah (later the first president of Ghana) before returning to Nigeria in 1937. There he founded and edited newspapers and also became directly involved in politics, first with the Nigerian Youth Movement and later (1944) as a founder of the National Council of Nigeria and the Cameroons (NCNC), which became increasingly identified with the Igbo people of southern Nigeria after 1951. In 1948, with the backing of the NCNC, Azikiwe was elected to the Nigerian Legislative Council, and he later served as premier of the Eastern region (1954–59)."
+      "no": "8",
+      "name": "Major General Muhammadu Buhari",
+      "tribe": "Hausa",
+      "imgsrc": "Muhammadu-Buhari-President.jpg",
+      "from": 1983,
+      "to": 1985,
+      "reason": "deposed",
+      "born": 1942,
+      "party": "APC",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": "Muhammadu Buhari GCFR is a Nigerian politician who has been president of Nigeria since 2015. Buhari is a retired Nigerian Army Major General and has served as military head of state in Nigeria between 1983 to 1985, after taking power in a military coup d'état."
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Anushka",
+          "github_url": "https://github.com/Anushh23",
+          "extra_url": null
+        }
+      ]
+    },
+    {
+      "no": "7",
+      "name": "Shehu Usman Aliyu Shagari",
+      "tribe": "Fulani",
+      "imgsrc": "President-Shehu-Shagari.jpg",
+      "from": 1979,
+      "to": 1983,
+      "reason": null,
+      "born": 1942,
+      "party": "NPN",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "poly4concept",
+          "github_url": "https://github.com/poly4concept",
+          "extra_url": "http://alhazanmubarak.me/my-portfolio/"
+        }
+      ]
+    },
+    {
+      "no": "2",
+      "name": "Chief Nnamdi Azikwe",
+      "tribe": "Igbo",
+      "imgsrc": "President-Nnamdi-Azikwe.jpg",
+      "from": 1963,
+      "to": 1966,
+      "reason": null,
+      "born": 1904,
+      "party": "NCNCN",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Adeyemi",
+          "github_url": "https://github.com/buhari44",
+          "extra_url": "https://afrikatechboyportfolio.netlify.app/"
+        }
+      ]
     }
-]
+  ]
 }
