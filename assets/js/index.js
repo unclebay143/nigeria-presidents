@@ -81,10 +81,13 @@ const setButtonStyle = styles => {
 	});
 };
 
-const viewMore = () => {
-	// TODO: users should be able to view more information about the president
-	document.querySelector('.message').innerText =
-		'Yes! you should be able to view more, you can fix this';
+// view more function
+const viewMore = (presidentNumber) => {
+  // store the selected president number in LS
+  localStorage.setItem("viewing_president", JSON.stringify(presidentNumber));
+  // redirect user to the view-more page
+  window.open("./../public/view-more.html", "_self");
+
 };
 
 // Entry Level
