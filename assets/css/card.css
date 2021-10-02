@@ -1,3 +1,9 @@
+:root {
+  --primary-color: green;
+  --secondary-color: #ffffff;
+  --primary-font: "Montserrat";
+}
+
 /* *PROFILE SECTION */
 .profile-cards {
   display: flex;
@@ -40,7 +46,7 @@
   height: 45%;
   margin-top: -0.4rem;
   border-top: 0;
-  border: 0.8px solid green;
+  border: 0.8px solid var(--primary-color);
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
   display: flex;
@@ -58,7 +64,7 @@
 .card-info {
   padding-top: 0.7rem;
   z-index: 2;
-  background: white;
+  background: var(--secondary-color);
 }
 
 .card-info:hover {
@@ -72,7 +78,10 @@
 .card-info .name {
   font-size: 15px;
   margin-bottom: 0.5rem;
-  background: -webkit-linear-gradient(green, green);
+  background: -webkit-linear-gradient(
+    var(--primary-color),
+    var(--primary-color)
+  );
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
