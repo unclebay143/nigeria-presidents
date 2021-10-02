@@ -14,14 +14,14 @@ const renderPresidentProfile = async (presidents) => {
   //  loop profile into temp container
   presidents.forEach((president) => {
     //
-    const { name, imgsrc, from, to, reason, causeofdeath, born, party } =
+    const { name, imgsrc, from, to, reason, causeofdeath, born, party, no } =
       president;
 
     const isReasionAvailable = reason ? `(${reason})` : "";
     const isDeceased = causeofdeath ? `(${causeofdeath})` : "";
     //
     temp += `
-    <div class="card" onclick="viewMore()">
+    <div class="card" onclick="viewMore('${no}')">
         <div class="card-image">
             <img
                 load="lazy"
@@ -83,10 +83,22 @@ const setButtonStyle = () => {
 };
 
 //
-const viewMore = () => {
-  // TODO: users should be able to view more information about the president
-  document.querySelector(".message").innerText =
-    "Yes! you should be able to view more, you can fix this";
+const viewMore = async (no) => {
+  const { presidents } = await fetchPresidentData();
+  const selectedPresident = presidents.find(p => p.no === no);
+  console.log('selectedPresin', selectedPresident);
+
+  document.querySelector(".message").innerHTML = `
+    <div class="card-info details">
+        <h3 class="name">President ${selectedPresident.name}</h3>
+        <h3 class="tenure">From ${selectedPresident.from} to ${selectedPresident.to}</h3>
+        <h3 class="born">Born: ${selectedPresident.born}</h3>
+        <h3 class="party">Party: ${selectedPresident.party}</h3>
+        ${selectedPresident.extra_information[0].bio ? `
+          <h3 class="bio">Bio: ${selectedPresident.extra_information[0].bio}</h3>
+        ` : ''}
+    </div>
+  `;
 };
 
 // Entry Level
