@@ -319,6 +319,33 @@
         "moreinfo" : "Chief Ernest Adegunle Oladeinde Shonekan GCFR (born 9 May 1936), titled Abese of Egbaland from 1981 (in addition to a variety of other chieftaincy titles),[1] is a Nigerian lawyer and statesman who served as the interim Head of State of Nigeria from 26 August 1993 to 17 November 1993."
       },
       {
+        "no": "12",
+        "name":"Chief Olusegun Obasanjo",
+        "tribe": "Yoruba",
+        "imgsrc": "President-Chief-Olusegun-Obasanjo.jpg",
+        "from": 1976,
+        "to": 1979,
+        "reason": null,
+        "born": 1937,
+        "party": "None (Military)",
+        "diedInOffice": false,
+        "extra_information": [
+          {
+            "bio": null
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Emmanuel Tanimowo",
+            "github_url": "https://github.com/Mannuel25",
+            "extra_url": null
+          }
+        ],
+
+        "moreinfo" : "Olusegun Obasanjo, (born March 5, 1937, Abeokuta, Nigeria), Nigerian general, statesman, and diplomat, who was the first military ruler in Africa to hand over power to a civilian government. He served as Nigeria’s military ruler (1976–79) and, as a civilian, as president (1999–2007). Obasanjo attended Baptist Boys’ High School in Abeokuta, in southwest Nigeria, and later worked as a teacher. Unable to afford college, he joined the army in 1958 and received officer training in England. Obasanjo rose quickly through the army ranks. During the Biafra conflict (1967–70) he was appointed to head a commando division that was stationed at the Biafran front in southeastern Nigeria. The conflict ended when Biafran forces surrendered to him in January 1970."
+
+      },
+      {
         "no": "3",
         "name": "President General Yakubu Gowon",
         "tribe": "Ngas",
