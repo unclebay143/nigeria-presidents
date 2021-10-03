@@ -214,7 +214,7 @@
 
         "moreinfo" : "Ibrahim Babangida, (born August 17, 1941, Minna, Nigeria), Nigerian military leader who served as head of state (1985–93).  Born in northern Niger state, Babangida received military training in Nigeria, India, Great Britain, and the United States. He rose through the ranks and was known for his courage—he played a major role in suppressing an attempted coup in 1976 when he walked into a rebel-held radio station unarmed. After Murtala Mohammed became the military head of state in 1975, Babangida joined his Supreme Military Council. He played a significant role in the coup that replaced the civilian government of Shehu Shagari with the military regime led by Muhammad Buhari. However, deep dissatisfaction with Buhari’s restrictive governance led Babangida to oust Buhari in August 1985. Babangida lessened the governmental control of the press and released a number of detainees from the former civilian government. However, he faced the same economic problems that Buhari had struggled with and the same domestic dissatisfaction. He came to an agreement with the International Monetary Fund and received new loans from the World Bank, but the resultant devaluation of the naira, the local currency, led to social unrest, which he addressed by dissolving part of the Nigeria Labour Congress and temporarily closing the universities. Babangida announced early in 1986 that a civilian government would be formed by 1990, later extending the date by two years to allow more time for preparation. He decreed that no politicians from the civilian regimes or office-holding military officials could stand as candidates. He allowed no political parties during the transition period and approved only two political parties when campaigning began. Expressing dissatisfaction with the process of fielding new political parties, the Babangida government created its own parties, the National Republican Convention and the Social Democratic Party (SDP). As a further move to show that he was firmly in control, Babangida dissolved the Armed Forces Ruling Council in favour of smaller bodies and dismissed many of his closest military colleagues. An attempted coup in April 1990 led by Major Gideon Orkar, who represented various northern Muslim states in their attempt to secede from what they perceived to be a corrupt and—most important—non-Islamic country, was quickly contained. Babangida later announced that Nigeria had suspended its membership in the Islamic Conference Organization amid speculation among southern Nigerians that he was trying to make the country Islamic. The long-planned transfer of the federal capital from Lagos to Abuja, a location in central Nigeria, was completed under Babangida in 1991."
       },
-  
+
       {
         "no": "7",
         "name": "Major General Muhammadu Buhari",
@@ -317,6 +317,31 @@
         ],
 
         "moreinfo" : "Chief Ernest Adegunle Oladeinde Shonekan GCFR (born 9 May 1936), titled Abese of Egbaland from 1981 (in addition to a variety of other chieftaincy titles),[1] is a Nigerian lawyer and statesman who served as the interim Head of State of Nigeria from 26 August 1993 to 17 November 1993."
+      },
+      {
+        "no": "3",
+        "name": "President General Yakubu Gowon",
+        "tribe": "Ngas",
+        "imgsrc": "President-Yakubu-Gowon.jpeg",
+        "from": 1966,
+        "to": 1975,
+        "reason": "deposed",
+        "born": 1934,
+        "party": "None (Military)",
+        "diedInOffice": false,
+        "extra_information": [
+          {
+            "bio": null
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Teri Eyenike",
+            "github_url": "https://github.com/terieyenike"
+          }
+        ],
+
+        "moreinfo" :  "Yakubu Gowon (born 19 October 1934), affectionately known as Jack Gowon, is a retired Nigerian Army general and military leader. As Head of State of Nigeria, Gowon presided over a controversial Nigerian Civil War and delivered the famous 'no victor, no vanquished' speech at the war's end in an effort to promote healing and reconciliation. The Nigerian Civil War is listed as one of the deadliest in modern history, with some accusing Gowon of crimes against humanity and genocide. Gowon maintains that he committed no wrongdoing during the war and that his leadership saved the country. An Anglican Christian from a minority Ngas family of Northern Nigeria, Gowon is a Nigerian nationalist, and a believer in the unity and oneness of Nigeria. Gowon's rise to power following the July 1966 counter-coup cemented military rule in Nigeria. Consequently, Gowon is the longest serving head of state of Nigeria, ruling for almost nine years until his overthrow in the coup d'état of 1975 by Brigadier Murtala Mohammed."
       }
     ]
   }
