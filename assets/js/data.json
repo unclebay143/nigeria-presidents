@@ -265,6 +265,30 @@
           "extra_url": "https://afrikatechboyportfolio.netlify.app/"
         }
       ]
+    },
+    {
+      "no": "4",
+      "name": "General Yakubu Gowon",
+      "tribe": "Ngas",
+      "imgsrc": "President-General_Yakubu_gowon.jpg",
+      "from": 1966,
+      "to": 1975,
+      "reason": null,
+      "born": 1934,
+      "party": "None (Military)",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Victor",
+          "github_url": "https://github.com/AyoOlu1",
+          "extra_url": null
+        }
+      ]
     }
   ]
 }
