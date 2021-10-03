@@ -6,27 +6,31 @@ const fetchPresidentData = async () => {
 };
 
 // render the president profile to the ui
-const renderPresidentProfile = async presidents => {
-	// profile card parent div
-	const profileCard = document.querySelector('.profile-cards');
-	let temp = '';
-	//  loop profile into temp container
-	presidents.forEach(president => {
-		//
-		const { name, imgsrc, from, to, reason, causeofdeath, born, party } = president;
+const renderPresidentProfile = async (presidents) => {
+  // profile card parent div
+  const profileCard = document.querySelector(".profile-cards");
+  let temp = "";
+  //  loop profile into temp container
+  presidents.forEach((president) => {
+    //
+    const {
+      name,
+      no,
+      imgsrc,
+      from,
+      to,
+      reason,
+      causeofdeath,
+      born,
+      party,
+      moreinfo,
+    } = president;
 
-		const isReasionAvailable = reason ? `(${reason})` : '';
-		const isDeceased = causeofdeath ? `(${causeofdeath})` : '';
-		const tillDate = () => {
-			if (to == 2021) {
-				return 'Till Date';
-			} else {
-				return to;
-			}
-		};
-		//
-		temp += `
-    <div class="card" onclick="viewMore()">
+    const isReasionAvailable = reason ? `(${reason})` : "";
+    const isDeceased = causeofdeath ? `(${causeofdeath})` : "";
+    //
+    temp += `
+    <div class="card" onclick="viewMore('${no}')">
         <div class="card-image">
             <img
                 load="lazy"
@@ -53,38 +57,29 @@ const renderPresidentProfile = async presidents => {
 
 /* SORTING AREA*/
 const sortByLatest = async () => {
-	// Get the president from the fetch function
-	const { presidents } = await fetchPresidentData();
-	// Sort the president list from new to old
-	const sortByLatest = presidents.sort((a, b) => b.to - a.to);
-	renderPresidentProfile(sortByLatest);
-	//setting Styles
-	setButtonStyle([true, false]);
+  // Get the president from the fetch function
+  const { presidents } = await fetchPresidentData();
+  // Sort the president list from new to old
+  const sortByLatest = presidents.sort((a, b) => b.from - a.from);
+  renderPresidentProfile(sortByLatest);
 };
 
 /* SORTING AREA*/
 const sortByOld = async () => {
-	// Get the president from the fetch function
-	const { presidents } = await fetchPresidentData();
-	// Sort the president list from old to new
-	const sortByOldest = presidents.sort((a, b) => a.to - b.to);
-	// Render the president profile to the ui
-	renderPresidentProfile(sortByOldest);
-	//setting Styles
-	setButtonStyle([false, true]);
+  // Get the president from the fetch function
+  const { presidents } = await fetchPresidentData();
+  // Sort the president list from old to new
+  const sortByOldest = presidents.sort((a, b) => a.from - b.from);
+  // Render the president profile to the ui
+  renderPresidentProfile(sortByOldest);
 };
 
-const setButtonStyle = styles => {
-	const buttons = document.querySelectorAll('.sorting-btn button');
-	buttons.forEach((button, index) => {
-		button.style.background = styles[index] ? 'green' : null;
-	});
-};
-
-const viewMore = () => {
-	// TODO: users should be able to view more information about the president
-	document.querySelector('.message').innerText =
-		'Yes! you should be able to view more, you can fix this';
+// view more function
+const viewMore = (presidentNumber) => {
+  // store the selected president number in LS
+  localStorage.setItem("viewing_president", JSON.stringify(presidentNumber));
+  // redirect user to the view-more page
+  window.open("./../public/view-more.html", "_self");
 };
 
 // Entry Level
