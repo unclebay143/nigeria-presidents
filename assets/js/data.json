@@ -268,7 +268,7 @@
         "moreinfo" : "Shehu Shagari, in full Alhaji Shehu Usman Aliyu Shagari, (born 1925, Shagari, Nigeria—died December 28, 2018, Abuja, Nigeria), Nigerian politician, president of Nigeria from 1979 to 1983. Shagari’s great-grandfather founded the village from which the family took its name. Shagari was educated at Kaduna College and taught school briefly. As one of the few northerners to show an interest in national politics, he ran for office in 1954 and was elected to the federal House of Representatives. Thereafter he held several posts and was a member of every administration after Nigeria’s independence in 1960. After a military coup in 1966 ended civilian government, he retired to his hometown. Gen. Yakubu Gowon appointed him federal commissioner for economic development in 1971, a position he took over from Chief Obafemi Awolowo. He faced Awolowo in 1979 and narrowly defeated him in presidential elections after the military government led by Olusegun Obasanjo allowed a return to civilian rule. Nigeria was badly shaken by the international economic crisis of the early 1980s. Shagari took several steps to try to strengthen the economy—cutting the budget, calling in the International Monetary Fund, and expelling two million aliens (mostly Ghanaians) in 1983. He won the bitterly contested presidential elections in 1983, but the state of the economy and corruption in his administration worsened, and on December 31, 1983, a military coup led by Maj. Gen. Muhammad Buhari toppled the government, and Shagari was arrested. Shagari was cleared of personal corruption charges and released from detention in 1986 but was banned from participation in Nigerian politics for life."
       },
       {
-        "no": "2",
+        "no": "1",
         "name": "Chief Nnamdi Azikwe",
         "tribe": "Igbo",
         "imgsrc": "President-Nnamdi-Azikwe.jpg",
@@ -342,6 +342,31 @@
         ],
 
         "moreinfo" :  "Yakubu Gowon (born 19 October 1934), affectionately known as Jack Gowon, is a retired Nigerian Army general and military leader. As Head of State of Nigeria, Gowon presided over a controversial Nigerian Civil War and delivered the famous 'no victor, no vanquished' speech at the war's end in an effort to promote healing and reconciliation. The Nigerian Civil War is listed as one of the deadliest in modern history, with some accusing Gowon of crimes against humanity and genocide. Gowon maintains that he committed no wrongdoing during the war and that his leadership saved the country. An Anglican Christian from a minority Ngas family of Northern Nigeria, Gowon is a Nigerian nationalist, and a believer in the unity and oneness of Nigeria. Gowon's rise to power following the July 1966 counter-coup cemented military rule in Nigeria. Consequently, Gowon is the longest serving head of state of Nigeria, ruling for almost nine years until his overthrow in the coup d'état of 1975 by Brigadier Murtala Mohammed."
+      },
+      {
+        "no": "2",
+        "name": "President Major General Johnson Aguiyi-Ironsi",
+        "tribe": "Igbo",
+        "imgsrc": "President-Aguiyi-Ironsi.jpeg",
+        "from": 1966,
+        "to": 1966,
+        "reason": "assassinated",
+        "born": 1924,
+        "party": "None (Military)",
+        "diedInOffice": true,
+        "extra_information": [
+          {
+            "bio": null
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Teri Eyenike",
+            "github_url": "https://github.com/terieyenike"
+          }
+        ],
+
+        "moreinfo" :  "Major General Johnson Thomas Umunnakwe Aguiyi-Ironsi MVO, MBE (3 March 1924 – 29 July 1966) was the first Military Head of State of Nigeria. He seized power amidst the ensuing chaos following the 15 January 1966 military coup, which decapitated the country's leadership. He ruled from 16 January 1966 until his assassination on 29 July 1966 by a group of mutinous Northern Nigerian officers and men who were led by Major Murtala Mohammed and included Captain Theophilus Danjuma, Lieutenant Muhammadu Buhari, Lieutenant Ibrahim Babangida and Lieutenant Sani Abacha in a revolt against his government in what was popularly called the July Counter Coup."
       }
     ]
   }
