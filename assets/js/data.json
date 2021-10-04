@@ -336,12 +336,37 @@
         ],
         "contributors": [
           {
-            "name": "Nazmi Feeroz",
-            "github_url": "https://github.com/nazmifeeroz"
+            "name": "Kehinde Onifade",
+            "github_url": "https://github.com/kendoriddy"
           }
         ],
 
         "moreinfo" : "Major General Johnson Thomas Umunnakwe Aguiyi Ironsi was the first Military Head of State in Nigeria."
+      },
+      {
+        "no": "4",
+        "name": "General Yakubu Gowon",
+        "tribe": "Hausa",
+        "imgsrc": "General-Yakubu-Gowon.jpg",
+        "from": 1966,
+        "to": 1975,
+        "reason": "overthrown",
+        "born": 1934,
+        "party": "None (Military)",
+        "diedInOffice": false,
+        "extra_information": [
+          {
+            "bio": null
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Kehinde Onifade",
+            "github_url": "https://github.com/kendoriddy"
+          }
+        ],
+
+        "moreinfo" : "As Head of State, Gowon presided over the controversial Nigerian Civil War"
       },
       {
         "no": "12",
