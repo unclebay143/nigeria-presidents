@@ -319,6 +319,56 @@
         "moreinfo" : "Chief Ernest Adegunle Oladeinde Shonekan GCFR (born 9 May 1936), titled Abese of Egbaland from 1981 (in addition to a variety of other chieftaincy titles),[1] is a Nigerian lawyer and statesman who served as the interim Head of State of Nigeria from 26 August 1993 to 17 November 1993."
       },
       {
+        "no": "3",
+        "name": "Major General Johnson Thomas Umunnakwe Aguiyi Ironsi",
+        "tribe": "Igbo",
+        "imgsrc": "Major-General Johnson-Aguiyi-Ironsi.jpg",
+        "from": 1966,
+        "to": 1966,
+        "reason": "overthrown",
+        "born": 1924,
+        "party": "None (Military)",
+        "diedInOffice": true,
+        "extra_information": [
+          {
+            "bio": null
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Kehinde Onifade",
+            "github_url": "https://github.com/kendoriddy"
+          }
+        ],
+
+        "moreinfo" : "Major General Johnson Thomas Umunnakwe Aguiyi Ironsi was the first Military Head of State in Nigeria."
+      },
+      {
+        "no": "4",
+        "name": "General Yakubu Gowon",
+        "tribe": "Hausa",
+        "imgsrc": "General-Yakubu-Gowon.jpg",
+        "from": 1966,
+        "to": 1975,
+        "reason": "overthrown",
+        "born": 1934,
+        "party": "None (Military)",
+        "diedInOffice": false,
+        "extra_information": [
+          {
+            "bio": null
+          }
+        ],
+        "contributors": [
+          {
+            "name": "Kehinde Onifade",
+            "github_url": "https://github.com/kendoriddy"
+          }
+        ],
+
+        "moreinfo" : "As Head of State, Gowon presided over the controversial Nigerian Civil War"
+      },
+      {
         "no": "12",
         "name":"Chief Olusegun Obasanjo",
         "tribe": "Yoruba",
