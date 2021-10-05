@@ -40,7 +40,29 @@
                 "extra_url": "https://johnmuriu.netlify.app/"
             }],
 
-            "moreinfo": "GENERAL YAKUBU GOWON, affectionately known as Jack Gowon, is a retired Nigerian Army general and military leader. ... Consequently, Gowon is the longest serving head of state of Nigeria, ruling for almost nine years until his overthrow in the coup d'état of 1975 by Brigadier Murtala Mohammed."
+            "moreinfo": "GENERAL Yakobo Gowon, affectionately known as Jack Gowon, is a retired Nigerian Army general and military leader. ... Consequently, Gowon is the longest serving head of state of Nigeria, ruling for almost nine years until his overthrow in the coup d'état of 1975 by Brigadier Murtala Mohammed."
+        },
+        {
+            "no": "17",
+            "name": "Abubakar Tafawa Balewa",
+            "tribe": "Gere",
+            "imgsrc": "Balewa.jpg",
+            "from": 1960,
+            "to": 1963,
+            "reason": "assassinated",
+            "born": 1934,
+            "party": "NPC",
+            "diedInOffice": false,
+            "extra_information": [{
+                "bio": null
+            }],
+            "contributors": [{
+                "name": "John muriu",
+                "github_url": "https://github.com/John-muriu",
+                "extra_url": "https://johnmuriu.netlify.app/"
+            }],
+
+            "moreinfo": "Sir Abubakar Tafawa Balewa KBE PC was a Nigerian politician who was the first and only Prime Minister of Nigeria. He played important roles in the continent's formative indigenous rule. He was an important leader in the formation of the Organisation of African Unity and creating a cooperative relationship with French speaking African countries."
         },
         {
             "no": "15",
