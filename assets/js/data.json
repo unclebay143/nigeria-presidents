@@ -388,6 +388,33 @@
       ],
 
       "moreinfo": "Olusegun Obasanjo, (born March 5, 1937, Abeokuta, Nigeria), Nigerian general, statesman, and diplomat, who was the first military ruler in Africa to hand over power to a civilian government. He served as Nigeria’s military ruler (1976–79) and, as a civilian, as president (1999–2007). Obasanjo attended Baptist Boys’ High School in Abeokuta, in southwest Nigeria, and later worked as a teacher. Unable to afford college, he joined the army in 1958 and received officer training in England. Obasanjo rose quickly through the army ranks. During the Biafra conflict (1967–70) he was appointed to head a commando division that was stationed at the Biafran front in southeastern Nigeria. The conflict ended when Biafran forces surrendered to him in January 1970."
+    },
+    {
+      "no": "17",
+      "name": "Abubakar Tafawa Balewa",
+      "tribe": "Hausa",
+      "imgsrc": "President-Abubakar-Tafawa-Balewa.jpg",
+      "from": 1960,
+      "to": 1963,
+      "reason": null,
+      "born": 1912,
+      "party": "NPC",
+      "diedInOffice": false,
+      "extra_information": [
+        {
+          "bio": null
+        }
+      ],
+      "contributors": [
+        {
+          "name": "Afolabi Mariam",
+          "github_url": "https://github.com/mariamopeyemi",
+          "extra_url": null
+        }
+      ],
+
+      "moreinfo": "Abubakar Tafawa Balewa was conceived in December 1912 in Bauchi State, Nigeria. Balewa is the only one in Nigerian history to have been bestowed with the title of federal Prime Minister. Balewa ventured into the Nigerian government in 1952 as Minister of Works, and later as Minister of Transport. In 1957, he was elected Chief Minister, forming an alliance government between the NPC and the National council for Nigeria, and the Cameroons. He assumed an important job in the transitional period among colonial and indigenous rule of Nigeria. His legacy was made through the collaboration between ethnic groups and mediation of other African conflicts. Following quite a while of colonial rule, the British Crown finally gave up authority to Nigeria. Sir Abubakar Tafawa with Queen Elizabeth II at that point ruled Nigeria as the first prime minister from 1960-1963. This was when Nigeria turned into a Republic."
     }
+
   ]
 }
