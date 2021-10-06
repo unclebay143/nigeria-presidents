@@ -63,6 +63,8 @@ const sortByLatest = async () => {
   // Sort the president list from new to old
   const sortByLatest = presidents.sort((a, b) => b.from - a.from);
   renderPresidentProfile(sortByLatest);
+
+  handleButtonColor();
 };
 
 /* SORTING AREA*/
@@ -73,6 +75,24 @@ const sortByOld = async () => {
   const sortByOldest = presidents.sort((a, b) => a.from - b.from);
   // Render the president profile to the ui
   renderPresidentProfile(sortByOldest);
+
+  handleButtonColor();
+};
+
+const handleButtonColor = () => {
+  const buttons = document.querySelectorAll(".sorting-btn button");
+  for (let index = 0; index < buttons.length; index++) {
+    const defColor = "rgba(39, 63, 39, 0.7)";
+
+    buttons[index].addEventListener("click", () => {
+      buttons[index].style.backgroundColor = "green";
+    });
+
+    //
+    buttons[index].addEventListener("focusout", () => {
+      buttons[index].style.backgroundColor = defColor;
+    });
+  }
 };
 
 // view more function
