@@ -6,7 +6,7 @@
       "imgsrc": "President-Murtala Muhammed.jpeg",
       "from": 1975,
       "to": 1976,
-      "reason": null,
+      "reason": "assasinated",
       "born": 1938,
       "party": "None (Military)",
       "diedInOffice": true,
@@ -58,7 +58,7 @@
       "imgsrc": "President-Goodluck-Ebele-Jonathan.png",
       "from": 2011,
       "to": 2015,
-      "reason": null,
+      "reason": "transferred power",
       "born": 1957,
       "party": "PDP",
       "diedInOffice": false,
@@ -84,7 +84,7 @@
       "imgsrc": "President-Alhaji-Umaru-Musa-Yar'Adua.jpg",
       "from": 2007,
       "to": 2010,
-      "reason": null,
+      "reason": "died",
       "born": 1951,
       "party": "PDP",
       "diedInOffice": true,
@@ -103,16 +103,16 @@
         }
       ],
 
-      "moreinfo": "Born on 16 August 1951 and died on 5 May 2010. He was the 13th president of the Federal Republic of Nigeria. He was governor of Katsina State in northern Nigeria from 29 May 1999 to 28 May 2007. He was declared the winner of the 21 April 2007 Presidential Election and was sworn into office on 29th May 2007. He started his education at Rafukka Primary School in 1958, and moved to Dutsinma Boarding Primary School in 1962. He attended the Government College at Keffi from 1965 until 1969."
+      "moreinfo": "Born on 16 August 1951 and died in power on 5 May 2010. He was the 13th president of the Federal Republic of Nigeria. He served has a governor of Katsina State in northern Nigeria from 29 May 1999 to 28 May 2007. He was declared the winner of the 21 April 2007 Presidential Election and was sworn into office on 29th May 2007. He started his education at Rafukka Primary School in 1958, and moved to Dutsinma Boarding Primary School in 1962. He attended the Government College at Keffi from 1965 until 1969."
     },
     {
-      "no": "12",
+      "no": "5th and 12th",
       "name": "Chief Olusegun Obasanjo",
       "tribe": "Yoruba",
       "imgsrc": "President-Chief-Olusegun-Obasanjo.jpg",
       "from": 1999,
       "to": 2007,
-      "reason": null,
+      "reason": "transferred power",
       "born": 1937,
       "party": "APC",
       "diedInOffice": false,
@@ -126,6 +126,10 @@
           "name": "unclebigbay",
           "github_url": "https://github.com/unclebay143",
           "extra_url": "unclebigbay.com"
+        },
+        {
+          "name": "tylerjusfly",
+          "github_url": "https://github.com/tylerjusfly"
         }
       ],
 
@@ -164,7 +168,7 @@
       "imgsrc": "President-Sani-Abacha.jpg",
       "from": 1993,
       "to": 1998,
-      "reason": null,
+      "reason": "died",
       "born": 1943,
       "party": "None (Military)",
       "diedInOffice": true,
