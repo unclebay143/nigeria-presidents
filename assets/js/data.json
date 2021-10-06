@@ -26,7 +26,7 @@
       "moreinfo": "Murtala Ramat Muhammed (8 November 1938 – 13 February 1976) was a Nigerian general who led the Northern counter-coup forces in overthrowing the Republic of Nigeria and featured prominently during the Nigerian Civil War and thereafter ruled over Nigeria from 30 July 1975 until his assassination on 13 February 1976. This period in Nigerian history, from the Northern counter-coup victory to Murtala's death, is commonly associated with the institutionalization of the military in politics. Murtala Ramat Mohammed, initiated many changes during his brief time in office: he began the process of moving the federal capital to Abuja, addressed the issue of government inefficiency, and, most important, initiated the process for a return to civilian rule. Born in Kano, into a ruling-class religious family, Murtala served in the Nigerian Army as a cadet in the Royal Military Academy, Sandhurst. He later served in Congo; eventually rose through the ranks to become brigadier general in 1971, aged 33, becoming one of the youngest generals in Nigeria. Three years later Murtala became the Federal Commissioner for Communications in Lagos. As a conservative and federalist, Murtala regretted the overthrow of the First Republic and the promulgation of Aguiyi Ironsi's unification decree of 1966. He was devastated by the assassination of Sir Ahmadu Bello, and for a time seriously considered the secession of Northern Nigeria. His career redoubled after Chukwuma Kaduna Nzeogwu and the young majors orchestrated the first military coup in Nigeria of 1966 coup empowering him to lead the mutiny of the night of 29 July 1966 in Abeokuta. Murtala was briefly considered as Supreme Commander before the appointment of Yakubu Gowon. He also masterminded the July 1966 counter coup, which evidently, sparked the Nigerian Civil War. During the war, he commandeered Nigeria's second infantry division which was responsible for the death of civilians and much of the rebels. His command's use of veteran soldiers, no quarter, and scorched earth strategies led to between 10,000 and 30,000 deaths. Combined with the total wartime death toll of three million making the civil war one of the deadliest in modern history."
     },
     {
-      "no": "15",
+      "no": "7th and 15th",
       "name": "Muhammadu Buhari",
       "tribe": "Hausa Fulani",
       "imgsrc": "President-Muhammadu-Buhari-President.jpg",
@@ -106,7 +106,7 @@
       "moreinfo": "Born on 16 August 1951 and died in power on 5 May 2010. He was the 13th president of the Federal Republic of Nigeria. He served has a governor of Katsina State in northern Nigeria from 29 May 1999 to 28 May 2007. He was declared the winner of the 21 April 2007 Presidential Election and was sworn into office on 29th May 2007. He started his education at Rafukka Primary School in 1958, and moved to Dutsinma Boarding Primary School in 1962. He attended the Government College at Keffi from 1965 until 1969."
     },
     {
-      "no": "5th and 12th",
+      "no": "12",
       "name": "Chief Olusegun Obasanjo",
       "tribe": "Yoruba",
       "imgsrc": "President-Chief-Olusegun-Obasanjo.jpg",
@@ -159,7 +159,7 @@
         }
       ],
 
-      "moreinfo": "Abdusalam Abubakar, Abdusalam also spelled Abdusalami or Abdulsalam, (born June 13, 1942, Minna, Nigeria), Nigerian military leader, who served as head of state (1998–99). Hailing from the middle belt of the country, Abubakar joined the army in 1975 and received his formal military training in the United States. He commanded Nigeria’s contingent of United Nations peacekeeping troops in Lebanon in 1981. By the late 1980s he was a senior officer and in 1993 was named defense chief of staff by General Sani Abacha, who became Nigeria’s military ruler in that year."
+      "moreinfo": "Abdusalam Abubakar, Abdusalam also spelled Abdusalami or Abdulsalam, (born June 13, 1942, Minna, Nigeria), Nigerian military leader, Hailing from the middle belt of the country, he served as head of state (1998–99), During his leadership, Nigeria adopted a modified version of the 1979 constitution, which provided for multiparty elections. Abubakar joined the army in 1975 and received his formal military training in the United States. He commanded Nigeria’s contingent of United Nations peacekeeping troops in Lebanon in 1981. By the late 1980s he was a senior officer and in 1993 was named defense chief of staff by General Sani Abacha, who became Nigeria’s military ruler in that year. He is the currently the chairman of the national peace committee."
     },
     {
       "no": "10",
@@ -247,7 +247,7 @@
       "imgsrc": "President-Shehu-Shagari.jpg",
       "from": 1979,
       "to": 1983,
-      "reason": null,
+      "reason": "overthrown",
       "born": 1942,
       "party": "NPN",
       "diedInOffice": false,
@@ -340,7 +340,7 @@
         }
       ],
 
-      "moreinfo": "Major General Johnson Thomas Umunnakwe Aguiyi Ironsi was the first Military Head of State in Nigeria."
+      "moreinfo": "Major General Johnson Thomas Umunnakwe Aguiyi Ironsi was the first Military Head of State in Nigeria. He seized power amidst the ensuing chaos following the 15 January 1966 military coup, which decapitated the country's leadership. He ruled from 16 January 1966 until his assassination on 29 July 1966 by a group of Northern army officers in a revolt against his government in what was popularly called the July Counter Coup. In 1942, Aguiyi-Ironsi joined the Nigerian Regiment, as a private with the seventh battalion.[8] He was promoted in 1946 to company sergeant major. Also in 1946, Aguiyi-Ironsi was sent on an officer training course in Staff College, Camberley, England. On 12 June 1949, after completion of his course at Camberley, he received a short-service commission as a second lieutenant in the Royal West African Frontier Force,[9] with a subsequent retroactive promotion to lieutenant effective from the same date."
     },
     {
       "no": "4",
@@ -368,13 +368,13 @@
       "moreinfo": "As Head of State, Gowon presided over the controversial Nigerian Civil War"
     },
     {
-      "no": "12",
+      "no": "5",
       "name": "Chief Olusegun Obasanjo",
       "tribe": "Yoruba",
       "imgsrc": "President-Chief-Olusegun-Obasanjo.jpg",
       "from": 1976,
       "to": 1979,
-      "reason": null,
+      "reason": "transferred power",
       "born": 1937,
       "party": "None (Military)",
       "diedInOffice": false,
