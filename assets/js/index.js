@@ -78,6 +78,17 @@ const sortByOld = async () => {
 
   handleButtonColor();
 };
+/* SORTING AREA*/
+const sortByRank = async () => {
+  // Get the president from the fetch function
+  const { presidents } = await fetchPresidentData();
+  // Sort the president list from old to new
+  const sortByRank = presidents.sort((a, b) => a.no - b.no);
+  // Render the president profile to the ui
+  renderPresidentProfile(sortByRank);
+
+  handleButtonColor();
+};
 
 const handleButtonColor = () => {
   const buttons = document.querySelectorAll(".sorting-btn button");
