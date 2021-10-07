@@ -6,13 +6,13 @@
       "imgsrc": "President-Murtala Muhammed.jpeg",
       "from": 1975,
       "to": 1976,
-      "reason": null,
+      "reason": "assasinated",
       "born": 1938,
       "party": "None (Military)",
       "diedInOffice": true,
       "extra_information": [
         {
-          "bio": null
+          "bio": "General Murtala Muhammed was born on November 8, 1938 in kano. Who had a history of Islamic jurisprudence. In islam murtala means (An Attainer Of The Mercies Of God).  He attended the famous government college (now barewa college)in zaria where he obtained his school certificate in 1957. At barewa college, muhammed was a member of the cadet corps in his final year. In 1957 he obtained his school leaving certificate and continued to join the nigerian army."
         }
       ],
       "contributors": [
@@ -64,7 +64,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Goodluck Jonathan was born on 20 November,1957 in Ogbia to a Christian family of canoe makers,[3][4] from the Ijaw minority ethnic group in Bayelsa state. "
         }
       ],
       "contributors": [
@@ -72,10 +72,15 @@
           "name": "unclebigbay",
           "github_url": "https://github.com/unclebay143",
           "extra_url": "unclebigbay.com"
+        },
+        {
+          "name": "tylerjusfly",
+          "github_url": "https://github.com/tylerjusfly",
+          "extra_url": null
         }
       ],
 
-      "moreinfo": "His Excellency Dr Goodluck Ebele Jonathan President Federal Republic of Nigeria 2010-2015 was born in Otuoke Bayelsa State on November 20, 1957 He holds Bachelors Masters and Doctorate degrees in Zoology Hydrobiology and Fisheries Biology respectively; all obtained from the University of Port Harcourt, Rivers State, Nigeria. Before joining politics, Dr Jonathan served as a Science Inspector of Education, a lecturer, and later as an Assistant Director of the Directorate of Environmental Protection and Pollution Control in the defunct Oil Mineral Producing Areas Development Commission (now Niger Delta Development Commission)."
+      "moreinfo": "His Excellency Dr Goodluck Ebele Jonathan President Federal Republic of Nigeria 2010-2015 was born in Otuoke Bayelsa State on November 20, 1957 He holds Bachelors Masters and Doctorate degrees in Zoology Hydrobiology and Fisheries Biology respectively; all obtained from the University of Port Harcourt, Rivers State, Nigeria. Before joining politics, Dr Jonathan served as a Science Inspector of Education, a lecturer, and later as an Assistant Director of the Directorate of Environmental Protection and Pollution Control in the defunct Oil Mineral Producing Areas Development Commission (now Niger Delta Development Commission). Goodluck Jonathan was named acting president of the federal republic of nigeria on 9 february 2010, following a controversial doctrine of necessity from the Senate of Nigeria, due to President Yar'Adua's trip to Saudi Arabia in November 2009 for medical treatment. In accordance with the order of succession in the nigerian constitution following president Umaru Yar'Adua's death on 5 May 2010, acting president goodluck jonathan was sworn in as the substantive President of the Federal Republic of Nigeria on 6 May 2010. A year later, on 29 May 2011 he was sworn in as president, commander-in chief of the armed forces of nigeria, becoming Nigeria's 14th Head of State."
     },
     {
       "no": "14",
@@ -92,7 +97,7 @@
       "causeofdeath": "Sickness",
       "extra_information": [
         {
-          "bio": null
+          "bio": "Alhaji-Umaru-Musa-Yar'Adua was born in kastina state, his father was a minister for lagos in the first republic and held the chieftaincy title of matawalle (custodian of the royal treasury) of the katsina emirate, a title which Yar'Adua inherited. He attended ahmadu bello university zaria from 1972 to 1975 where he obtained a bachelor degree in education and chemistry."
         }
       ],
       "contributors": [
@@ -301,7 +306,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Shonekan was born on 9 May 1936 in lagos. The son of an Abeokuta-born civil servant, he was one of six children born into the family. Shonekan was educated at C.M.S Grammar School and Igbobi College. He received a law degree from the university of london, and was called to the bar. He later attended Harvard business school."
         }
       ],
       "contributors": [
