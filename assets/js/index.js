@@ -6,11 +6,45 @@ const fetchPresidentData = async () => {
   return data;
 };
 
+// Generate random president profile
+async function generateRandomPresidentProfile() {
+  const { presidents } = await fetchPresidentData();
+
+  // Generate a random number
+  let randomNumber = Math.floor(Math.random() * (presidents.length - 2));
+
+  let randomPresident = presidents[randomNumber];
+
+  const { name, from, to, born, party, extra_information } = randomPresident;
+
+  let randomPresidentCard = `
+ 
+      <div class="name"> President ${name}</div>
+      <div class="tenure">From ${from} to ${to}</div>
+      <div class="born">Born: ${born}</div>
+
+      <div class="party">Party: ${party}</div>
+      <div class="bio">${
+        extra_information[0].bio
+          ? "Bio: " + extra_information[0].bio
+          : "Bio Not available "
+      }</div>
+     <button class="random-button" onclick="generateRandomPresidentProfile()">Random</button>
+
+
+ `;
+
+  document.querySelector(".random-president").innerHTML = randomPresidentCard;
+}
+
+generateRandomPresidentProfile();
+
 // render the president profile to the ui
 const renderPresidentProfile = async (presidents) => {
   // profile card parent div
   const profileCard = document.querySelector(".profile-cards");
   let temp = "";
+
   //  loop profile into temp container
   presidents.forEach((president) => {
     //
