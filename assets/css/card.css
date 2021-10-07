@@ -51,6 +51,10 @@
   font-size: 0.8rem;
 }
 
+.random-president-card {
+  cursor: pointer;
+}
+
 .random-president .name,
 .random-president .tenure,
 .random-president .born,
