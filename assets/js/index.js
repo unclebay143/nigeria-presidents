@@ -56,6 +56,60 @@ const renderPresidentProfile = async (presidents) => {
   profileCard.innerHTML = temp;
 };
 
+
+// SECTION TO SORT PRESIDENT BY RANK
+
+// render the president profile to the ui
+const renderPresidentRank = async (presidents) => {
+  // profile card parent div
+  const profileCard = document.querySelector(".profile-cards");
+  let details = "";
+  //  loop profile into temp container
+  presidents.forEach((president) => {
+    //
+    const {
+      name,
+      no,
+      imgsrc,
+      from,
+      to,
+      reason,
+      causeofdeath,
+      born,
+      party,
+      moreinfo,
+    } = president;
+
+    const isReasionAvailable = reason ? `(${reason})` : "";
+    const isDeceased = causeofdeath ? `(${causeofdeath})` : "";
+    //
+    details += `
+    <div class="card" onclick="viewMore('${no}')">
+        <div class="card-image">
+            <img
+                load="lazy"
+                src="./assets/portraits/${imgsrc}"
+                alt="${name}"
+                width="100%"
+                height="100%"
+            />
+        </div>
+        <div class="read-more"><h3>read more</h3></div>
+        <div class="card-info">
+            <h3 class="name">President ${name}</h3><br>
+            <h3 class="tenure">From ${from} to ${to} ${isReasionAvailable}</h3>
+            <h3 class="party">Rank: ${no}</h3>
+        </div>
+    </div>
+  `;
+  });
+
+
+profileCard.innerHTML = details;
+};
+//END OF SECTION TO SORT PRESIDENTS RANK
+
+
 /* SORTING AREA*/
 const sortByLatest = async () => {
   // Get the president from the fetch function
@@ -75,6 +129,17 @@ const sortByOld = async () => {
   const sortByOldest = presidents.sort((a, b) => a.from - b.from);
   // Render the president profile to the ui
   renderPresidentProfile(sortByOldest);
+
+  handleButtonColor();
+};
+
+/* SORTING AREA*/
+const sortByRank = async () => {
+  // Get the president from the fetch function
+  const { presidents } = await fetchPresidentData();
+  // Sort the president list from new to and get the rank
+  const sortByRank = presidents.sort((a, b) => b.no - a.no);
+  renderPresidentRank(sortByRank);
 
   handleButtonColor();
 };
