@@ -63,7 +63,7 @@
       "imgsrc": "President-Goodluck-Ebele-Jonathan.png",
       "from": 2011,
       "to": 2015,
-      "reason": null,
+      "reason": "Transfer of power",
       "born": 1957,
       "party": "PDP",
       "diedInOffice": false,
@@ -82,6 +82,10 @@
           "name": "tylerjusfly",
           "github_url": "https://github.com/tylerjusfly",
           "extra_url": null
+        }, 
+        {
+          "name" : "DammyBells",
+          "github_url": "https://github.com/Damilola1732"        
         }
       ],
 
@@ -122,7 +126,7 @@
       "imgsrc": "President-Chief-Olusegun-Obasanjo.jpg",
       "from": 1999,
       "to": 2007,
-      "reason": null,
+      "reason": "Transfer of power",
       "born": 1937,
       "party": "APC",
       "diedInOffice": false,
@@ -162,6 +166,12 @@
           "name": "unclebigbay",
           "github_url": "https://github.com/unclebay143",
           "extra_url": "unclebigbay.com"
+        },
+        {
+          "name": "Dammy Bells",
+          "github_url": "https://github.com/damilola1732",
+          "extra_url": null
+
         }
       ],
 
@@ -174,7 +184,7 @@
       "imgsrc": "President-Sani-Abacha.jpg",
       "from": 1993,
       "to": 1998,
-      "reason": null,
+      "reason": "died",
       "born": 1943,
       "party": "None (Military)",
       "diedInOffice": true,
@@ -188,7 +198,16 @@
           "name": "Eunit",
           "github_url": "https://github.com/eunit99",
           "extra_url": "https://eunit99.github.io/"
+        },
+        {
+          "name": "Dammy Bells",
+          "github_url": "https://github.com/damilola1732",
+          "extra_url": null
+
         }
+
+
+
       ],
 
       "moreinfo": "Sani Abacha GCFR (About this soundpronunciation (20 September 1943 – 8 June 1998) was a Nigerian military general who served as the military head of state of Nigeria from 1993 until his death in 1998. He was also Chief of Army Staff between 1985 to 1990; Chief of Defence Staff between 1990 to 1993; and Minister of Defence. In 1993, Abacha became the first Nigerian Army officer to attain the rank of a full military general without skipping a single rank. His rule saw the achievement of several economic feats and also recorded human rights abuses and several political assassinations. He has been dubbed a kleptocrat and a dictator by several commentators. Abacha was born and brought up in Kano. He attended the Nigerian Military Training College in Kaduna, and was commissioned in 1963 after he had attended the Mons Officer Cadet School in Aldershot, England. The military career of Abacha was marked by involvement in all the military coups in Nigeria. When he was still a second lieutenant with the 3rd Battalion in Kaduna, he took part in the July 1966 Nigerian counter-coup from the conceptual stage. He could well have been a participant in the Lagos or Abeokuta phases of the coup the previous January as well. In addition, Abacha played a prominent role in the 1983 Nigerian coup d'état which brought General Muhammadu Buhari to power; and the 1985 Nigerian coup d'etat which removed Buhari and brought General Ibrahim Babangida to power. When General Ibrahim Babangida was named President and Commander-in-Chief of the Armed Forces of the Federal Republic of Nigeria in 1985, Abacha was named Chief of Army Staff. He was later appointed Minister of Defence in 1990"
@@ -279,7 +298,7 @@
       "imgsrc": "President-Nnamdi-Azikwe.jpg",
       "from": 1963,
       "to": 1966,
-      "reason": null,
+      "reason": "Transfer of power",
       "born": 1904,
       "party": "NCNCN",
       "diedInOffice": false,
@@ -298,7 +317,13 @@
           "name": "tylerjusfly",
           "github_url": "https://github.com/tylerjusfly",
           "extra_url": null
+        },
+        {
+          "name": "Dammy Bells",
+          "github_url": "https://github.com/damilola1732",
+          "extra_url": null
         }
+        
       ],
 
       "moreinfo": "Nnamdi Azikiwe, (born November 16, 1904, Zungeru, Nigeria—died May 11, 1996, Enugu), first president of independent Nigeria (1963–66) and prominent nationalist figure. Azikiwe attended various primary and secondary mission schools in Onitsha, Calabar, and Lagos. He arrived in the United States in 1925, where he attended several schools. Azikiwe earned multiple certificates and degrees, including bachelor’s and master’s degrees from Lincoln University in Pennsylvania and a second master’s degree from the University of Pennsylvania. In 1934 he went to the Gold Coast (now Ghana), where he founded a nationalist newspaper and was a mentor to Kwame Nkrumah (later the first president of Ghana) before returning to Nigeria in 1937. There he founded and edited newspapers and also became directly involved in politics, first with the Nigerian Youth Movement and later (1944) as a founder of the National Council of Nigeria and the Cameroons (NCNC), which became increasingly identified with the Igbo people of southern Nigeria after 1951. In 1948, with the backing of the NCNC, Azikiwe was elected to the Nigerian Legislative Council, and he later served as premier of the Eastern region (1954–59)."
