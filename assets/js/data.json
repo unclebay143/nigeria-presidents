@@ -128,11 +128,11 @@
       "to": 2007,
       "reason": "Transfer of power",
       "born": 1937,
-      "party": "APC",
+      "party": "PDP",
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Olusegun Matthew Okikiola Aremu Obasanjo, GCFR, Born in the village of Ibogun-Olaogun to a farming family of the Owu branch of the Yoruba, Obasanjo was educated largely in Abeokuta. Joining the Nigerian Army, where he specialised in engineering, he spent time assigned in the Congo, Britain, and India, rising to the rank of major. In the latter part of the 1960s, he played a senior role in combating Biafran separatists during the Nigerian Civil War, accepting their surrender in 1970. In 1975, a military coup established a junta with Obasanjo as part of its ruling triumvirate. After the triumvirate's leader, Murtala Muhammed, was assassinated the following year, the Supreme Military Council appointed Obasanjo as head of state. Continuing Murtala's policies, Obasanjo oversaw budgetary cut-backs and an expansion in access to free school education. Increasingly aligning Nigeria with the United States, he also emphasised support for groups opposing white minority rule in southern Africa. Committed to restoring democracy, Obasanjo oversaw the 1979 election, after which he handed over control of Nigeria to the newly elected civilian president, Shehu Shagari. He then retired to Ota, Ogun, where he became a farmer, published four books, and took part in international initiatives to end various African conflicts."
         }
       ],
       "contributors": [
@@ -140,6 +140,11 @@
           "name": "unclebigbay",
           "github_url": "https://github.com/unclebay143",
           "extra_url": "unclebigbay.com"
+        },
+        {
+          "name": "Victor Ade-Samuel",
+          "github_url": "https://github.com/victoradesamuel",
+          "extra_url": "https://victoradesamuel.github.io/soz"
         }
       ],
 
@@ -158,7 +163,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Abdulsalami Abubakar born June 13, 1942) is a Nigerian statesman and retired Nigerian Army general who served as the de facto President of Nigeria from 1998 to 1999, He was also Chief of Defence Staff between 1993 and 1998. He succeeded General Sani Abacha upon his death. During his leadership, Nigeria adopted a modified version of the 1979 constitution, which provided for multiparty elections. He transferred power to president-elect Olusegun Obasanjo on 29 May 1999. He is the current Chairman of the National Peace Committee."
         }
       ],
       "contributors": [
@@ -172,6 +177,11 @@
           "github_url": "https://github.com/damilola1732",
           "extra_url": null
 
+        },
+        {
+          "name": "Victor Ade-Samuel",
+          "github_url": "https://github.com/victoradesamuel",
+          "extra_url": "https://victoradesamuel.github.io/soz"
         }
       ],
 
@@ -210,7 +220,7 @@
 
       ],
 
-      "moreinfo": "Sani Abacha GCFR (About this soundpronunciation (20 September 1943 – 8 June 1998) was a Nigerian military general who served as the military head of state of Nigeria from 1993 until his death in 1998. He was also Chief of Army Staff between 1985 to 1990; Chief of Defence Staff between 1990 to 1993; and Minister of Defence. In 1993, Abacha became the first Nigerian Army officer to attain the rank of a full military general without skipping a single rank. His rule saw the achievement of several economic feats and also recorded human rights abuses and several political assassinations. He has been dubbed a kleptocrat and a dictator by several commentators. Abacha was born and brought up in Kano. He attended the Nigerian Military Training College in Kaduna, and was commissioned in 1963 after he had attended the Mons Officer Cadet School in Aldershot, England. The military career of Abacha was marked by involvement in all the military coups in Nigeria. When he was still a second lieutenant with the 3rd Battalion in Kaduna, he took part in the July 1966 Nigerian counter-coup from the conceptual stage. He could well have been a participant in the Lagos or Abeokuta phases of the coup the previous January as well. In addition, Abacha played a prominent role in the 1983 Nigerian coup d'état which brought General Muhammadu Buhari to power; and the 1985 Nigerian coup d'etat which removed Buhari and brought General Ibrahim Babangida to power. When General Ibrahim Babangida was named President and Commander-in-Chief of the Armed Forces of the Federal Republic of Nigeria in 1985, Abacha was named Chief of Army Staff. He was later appointed Minister of Defence in 1990"
+      "moreinfo": "Sani Abacha GCFR (About this sound pronunciation (20 September 1943 – 8 June 1998) was a Nigerian military general who served as the military head of state of Nigeria from 1993 until his death in 1998. He was also Chief of Army Staff between 1985 to 1990; Chief of Defence Staff between 1990 to 1993; and Minister of Defence. In 1993, Abacha became the first Nigerian Army officer to attain the rank of a full military general without skipping a single rank. His rule saw the achievement of several economic feats and also recorded human rights abuses and several political assassinations. He has been dubbed a kleptocrat and a dictator by several commentators. Abacha was born and brought up in Kano. He attended the Nigerian Military Training College in Kaduna, and was commissioned in 1963 after he had attended the Mons Officer Cadet School in Aldershot, England. The military career of Abacha was marked by involvement in all the military coups in Nigeria. When he was still a second lieutenant with the 3rd Battalion in Kaduna, he took part in the July 1966 Nigerian counter-coup from the conceptual stage. He could well have been a participant in the Lagos or Abeokuta phases of the coup the previous January as well. In addition, Abacha played a prominent role in the 1983 Nigerian coup d'état which brought General Muhammadu Buhari to power; and the 1985 Nigerian coup d'etat which removed Buhari and brought General Ibrahim Babangida to power. When General Ibrahim Babangida was named President and Commander-in-Chief of the Armed Forces of the Federal Republic of Nigeria in 1985, Abacha was named Chief of Army Staff. He was later appointed Minister of Defence in 1990"
     },
     {
       "no": "9",
@@ -242,7 +252,7 @@
     {
       "no": "8",
       "name": "Major General Muhammadu Buhari",
-      "tribe": "Hausa",
+      "tribe": "Fulani",
       "imgsrc": "Muhammadu-Buhari-President.jpg",
       "from": 1983,
       "to": 1985,
@@ -252,7 +262,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": "Muhammadu Buhari GCFR is a Nigerian politician who has been president of Nigeria since 2015. Buhari is a retired Nigerian Army Major General and has served as military head of state in Nigeria between 1983 to 1985, after taking power in a military coup d'état."
+          "bio": "Muhammadu Buhari GCFR is a Nigerian politician who has been president of Nigeria since 2015. Buhari is a retired Nigerian Army Major General and has served as military head of state in Nigeria between 1983 to 1985, after taking power in a military coup d'état. He was a one timeGovernor of Borno state, Governor of North-eastern state and Federal commissioner of petroleum and Natural resources."
         }
       ],
       "contributors": [
@@ -260,6 +270,11 @@
           "name": "Anushka",
           "github_url": "https://github.com/Anushh23",
           "extra_url": null
+        },
+        {
+          "name": "Victor Ade-Samuel",
+          "github_url": "https://github.com/victoradesamuel",
+          "extra_url": "https://victoradesamuel.github.io/soz"
         }
       ],
 
@@ -392,11 +407,12 @@
       "to": 1975,
       "reason": "overthrown",
       "born": 1934,
+      "Awards": "National Order of Niger" ,
       "party": "None (Military)",
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": "Yakubu Gowon affectionately known as Jack Gowon is from plateau. Gowon was the fifth of eleven children. He grew up in zaria and had his early life and education there. Gowon proved to be a very good athlete, he was the school football goalkeeper, pole vaulter, and long-distance runner. He broke the school mile record in his first year. He was also a boxing captain."
+          "bio": "Yakubu Gowon affectionately known as Jack Gowon is from plateau. Gowon was the fifth of eleven children. He grew up in zaria and had his early life and education there. Gowon proved to be a very good athlete, he was the school football goalkeeper, pole vaulter, and long-distance runner. He broke the school mile record in his first year. He was also a boxing captain. "
         }
       ],
       "contributors": [
@@ -408,10 +424,15 @@
           "name": "tylerjusfly",
           "github_url": "https://github.com/tylerjusfly",
           "extra_url": null
+        },
+        {
+          "name": "Ade-Samuel Victor",
+          "github_url": "https://github.com/victoradesamuel",
+          "extra_url": "https://victoradesamuel.github.io/soz"
         }
       ],
 
-      "moreinfo": "Gowon joined the nigerian army in 1954, and received his commission as a second lieutenant on 19 October 1955, his 21st birthday. He saw action in the congo as part of the united nations peacekeeping force, both in 1960–61 and in 1963. He advanced to battalion commander rank by 1966, at which time he was still a lieutenant colonel. In 1966, Gowon was chosen to become head of state. Up until then, Gowon remained strictly a career soldier with no involvement whatsoever in politics, until the tumultuous events of the year suddenly thrust him into a leadership role, when his unusual background as a Northerner who was neither of Hausa nor Fulani ancestry nor of the Islamic faith made him a particularly safe choice to lead a nation whose population was seething with ethnic tension. To stabilize his position as Head of State gowon promoted himself twice to Major-General just before the start of the civil war hostilities in 1967 and to full General at the end of the civil war in 1970."
+      "moreinfo": "Gowon joined the nigerian army in 1954, and received his commission as a second lieutenant on 19 October 1955, his 21st birthday. He saw action in the congo as part of the united nations peacekeeping force, both in 1960–61 and in 1963. He advanced to battalion commander rank by 1966, at which time he was still a lieutenant colonel. In 1966, Gowon was chosen to become head of state. Up until then, Gowon remained strictly a career soldier with no involvement whatsoever in politics, until the tumultuous events of the year suddenly thrust him into a leadership role, when his unusual background as a Northerner who was neither of Hausa nor Fulani ancestry nor of the Islamic faith made him a particularly safe choice to lead a nation whose population was seething with ethnic tension. To stabilize his position as Head of State gowon promoted himself twice to Major-General just before the start of the civil war hostilities in 1967 and to full General at the end of the civil war in 1970. Yakubu Gowon created twelvw states out bof the four regions that existed at the time appointing a Governor to head them."
     },
     {
       "no": "6",
