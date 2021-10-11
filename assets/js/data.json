@@ -6,13 +6,13 @@
       "imgsrc": "President-Murtala Muhammed.jpeg",
       "from": 1975,
       "to": 1976,
-      "reason": null,
+      "reason": "assasinated",
       "born": 1938,
       "party": "None (Military)",
       "diedInOffice": true,
       "extra_information": [
         {
-          "bio": null
+          "bio": "General Murtala Muhammed was born on November 8, 1938 in kano. Who had a history of Islamic jurisprudence. In islam murtala means (An Attainer Of The Mercies Of God).  He attended the famous government college (now barewa college)in zaria where he obtained his school certificate in 1957. At barewa college, muhammed was a member of the cadet corps in his final year. In 1957 he obtained his school leaving certificate and continued to join the nigerian army."
         }
       ],
       "contributors": [
@@ -38,7 +38,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Buhari was born to a fulani family on 17 December 1942, in Daura, Katsina State, He attended his primary school in daura and mai'adua in 1953 and also attended katsina provincial secondary school from 1956 to 1961. He enrolled into the nigerian military training college at the age of 19. "
         }
       ],
       "contributors": [
@@ -46,6 +46,11 @@
           "name": "unclebigbay",
           "github_url": "https://github.com/unclebay143",
           "extra_url": "unclebigbay.com"
+        },
+        {
+          "name": "tylerjusfly",
+          "github_url": "https://github.com/tylerjusfly",
+          "extra_url": null
         }
       ],
 
@@ -64,7 +69,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Goodluck Jonathan was born on 20 November,1957 in Ogbia to a Christian family of canoe makers,[3][4] from the Ijaw minority ethnic group in Bayelsa state. "
         }
       ],
       "contributors": [
@@ -72,10 +77,15 @@
           "name": "unclebigbay",
           "github_url": "https://github.com/unclebay143",
           "extra_url": "unclebigbay.com"
+        },
+        {
+          "name": "tylerjusfly",
+          "github_url": "https://github.com/tylerjusfly",
+          "extra_url": null
         }
       ],
 
-      "moreinfo": "His Excellency Dr Goodluck Ebele Jonathan President Federal Republic of Nigeria 2010-2015 was born in Otuoke Bayelsa State on November 20, 1957 He holds Bachelors Masters and Doctorate degrees in Zoology Hydrobiology and Fisheries Biology respectively; all obtained from the University of Port Harcourt, Rivers State, Nigeria. Before joining politics, Dr Jonathan served as a Science Inspector of Education, a lecturer, and later as an Assistant Director of the Directorate of Environmental Protection and Pollution Control in the defunct Oil Mineral Producing Areas Development Commission (now Niger Delta Development Commission)."
+      "moreinfo": "His Excellency Dr Goodluck Ebele Jonathan President Federal Republic of Nigeria 2010-2015 was born in Otuoke Bayelsa State on November 20, 1957 He holds Bachelors Masters and Doctorate degrees in Zoology Hydrobiology and Fisheries Biology respectively; all obtained from the University of Port Harcourt, Rivers State, Nigeria. Before joining politics, Dr Jonathan served as a Science Inspector of Education, a lecturer, and later as an Assistant Director of the Directorate of Environmental Protection and Pollution Control in the defunct Oil Mineral Producing Areas Development Commission (now Niger Delta Development Commission). Goodluck Jonathan was named acting president of the federal republic of nigeria on 9 february 2010, following a controversial doctrine of necessity from the Senate of Nigeria, due to President Yar'Adua's trip to Saudi Arabia in November 2009 for medical treatment. In accordance with the order of succession in the nigerian constitution following president Umaru Yar'Adua's death on 5 May 2010, acting president goodluck jonathan was sworn in as the substantive President of the Federal Republic of Nigeria on 6 May 2010. A year later, on 29 May 2011 he was sworn in as president, commander-in chief of the armed forces of nigeria, becoming Nigeria's 14th Head of State."
     },
     {
       "no": "14",
@@ -92,7 +102,7 @@
       "causeofdeath": "Sickness",
       "extra_information": [
         {
-          "bio": null
+          "bio": "Alhaji-Umaru-Musa-Yar'Adua was born in kastina state, his father was a minister for lagos in the first republic and held the chieftaincy title of matawalle (custodian of the royal treasury) of the katsina emirate, a title which Yar'Adua inherited. He attended ahmadu bello university zaria from 1972 to 1975 where he obtained a bachelor degree in education and chemistry."
         }
       ],
       "contributors": [
@@ -249,7 +259,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Shehu Usman Aliyu Shagari GCFR was the first democratically elected president of nigeria, after the transfer of power by military head of state general olusegun obasanjo in 1979 giving rise to the second nigerian republic. "
         }
       ],
       "contributors": [
@@ -275,7 +285,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Nnamdi Benjamin Azikiwe usually referred to as ZIK, was a Nigerian statesman and political leader who served as the first President of Nigeria from 1963 to 1966. He was considered a driving force behind the nations independence. He is now known as the father of nigerian nationalism."
         }
       ],
       "contributors": [
@@ -283,6 +293,11 @@
           "name": "Adeyemi",
           "github_url": "https://github.com/buhari44",
           "extra_url": "https://afrikatechboyportfolio.netlify.app/"
+        },
+        {
+          "name": "tylerjusfly",
+          "github_url": "https://github.com/tylerjusfly",
+          "extra_url": null
         }
       ],
 
@@ -291,7 +306,7 @@
     {
       "no": "10",
       "name": "Ernest Shonekan",
-      "tribe": "Igbo",
+      "tribe": "Yoruba",
       "imgsrc": "Ernest_Shonekan.jpg",
       "from": 1993,
       "to": 1993,
@@ -301,7 +316,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Shonekan was born on 9 May 1936 in lagos. The son of an Abeokuta-born civil servant, he was one of six children born into the family. Shonekan was educated at C.M.S Grammar School and Igbobi College. He received a law degree from the university of london, and was called to the bar. He later attended Harvard business school."
         }
       ],
       "contributors": [
@@ -326,13 +341,18 @@
       "diedInOffice": true,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Thomas Umunnakwe Aguiyi-Ironsi was born in ibeku, umuahia, located in the present-day abia state, nigeria. Aguiyi-Ironsi had his primary and secondary school education in Umuahia and Kano, respectively. At the age of 18, he joined the Nigeria Regiment against the wishes of his sister."
         }
       ],
       "contributors": [
         {
           "name": "Kehinde Onifade",
           "github_url": "https://github.com/kendoriddy"
+        },
+        {
+          "name": "tylerjusfly",
+          "github_url": "https://github.com/tylerjusfly",
+          "extra_url": null
         }
       ],
 
@@ -351,17 +371,22 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Yakubu Gowon affectionately known as Jack Gowon is from plateau. Gowon was the fifth of eleven children. He grew up in zaria and had his early life and education there. Gowon proved to be a very good athlete, he was the school football goalkeeper, pole vaulter, and long-distance runner. He broke the school mile record in his first year. He was also a boxing captain."
         }
       ],
       "contributors": [
         {
           "name": "Kehinde Onifade",
           "github_url": "https://github.com/kendoriddy"
+        },
+        {
+          "name": "tylerjusfly",
+          "github_url": "https://github.com/tylerjusfly",
+          "extra_url": null
         }
       ],
 
-      "moreinfo": "As Head of State, Gowon presided over the controversial Nigerian Civil War"
+      "moreinfo": "Gowon joined the nigerian army in 1954, and received his commission as a second lieutenant on 19 October 1955, his 21st birthday. He saw action in the congo as part of the united nations peacekeeping force, both in 1960–61 and in 1963. He advanced to battalion commander rank by 1966, at which time he was still a lieutenant colonel. In 1966, Gowon was chosen to become head of state. Up until then, Gowon remained strictly a career soldier with no involvement whatsoever in politics, until the tumultuous events of the year suddenly thrust him into a leadership role, when his unusual background as a Northerner who was neither of Hausa nor Fulani ancestry nor of the Islamic faith made him a particularly safe choice to lead a nation whose population was seething with ethnic tension. To stabilize his position as Head of State gowon promoted himself twice to Major-General just before the start of the civil war hostilities in 1967 and to full General at the end of the civil war in 1970."
     },
     {
       "no": "6",

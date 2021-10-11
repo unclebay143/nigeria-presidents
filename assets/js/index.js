@@ -44,6 +44,28 @@ async function generateRandomPresidentProfile() {
       </div>
 
  `;
+  const { name, no, from, to, born, party, extra_information } =
+    randomPresident;
+
+  let randomPresidentCard =
+    `
+ <div class="random-president-card" onclick="viewMore('${no}')">
+ 
+ <div class="name"> President ${name}</div>
+  <div class="tenure">From ${from} to ${to}</div>
+  <div class="born">Born: ${born}</div>
+  
+  <div class="party">Party: ${party}</div>
+  <div class="bio">${
+    extra_information[0].bio
+      ? "Bio: " + extra_information[0].bio
+      : "Bio:  Not available "
+  }</div>      
+      </div>
+
+ ` +
+    ` <button class="random-button" onclick="generateRandomPresidentProfile()">Random</button>
+     `;
 
   document.querySelector(".random-president").innerHTML = randomPresidentCard;
 }
