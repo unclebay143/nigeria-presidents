@@ -47,6 +47,6 @@ const renderPresidentInformation = ({
   var moreInfoContainer = document.getElementById("js-president-moreinfo");
 
   presidentNameContainer.innerHTML = name;
-  moreInfoContainer.innerHTML = moreinfo;
+  moreInfoContainer.innerHTML = moreinfo || extra_information[0].bio;
   presidentImageHolder.setAttribute("src", `./../assets/portraits/${imgsrc}`);
 };

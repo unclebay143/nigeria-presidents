@@ -82,10 +82,10 @@
           "name": "tylerjusfly",
           "github_url": "https://github.com/tylerjusfly",
           "extra_url": null
-        }, 
+        },
         {
-          "name" : "DammyBells",
-          "github_url": "https://github.com/Damilola1732"        
+          "name": "DammyBells",
+          "github_url": "https://github.com/Damilola1732"
         }
       ],
 
@@ -132,7 +132,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Olusegun Obasanjo, (born March 5, 1937, Abeokuta, Nigeria), Nigerian general, statesman, and diplomat, who was the first military ruler in Africa to hand over power to a civilian government. He served as Nigeria’s military ruler (1976–79) and, as a civilian, as president (1999–2007). Obasanjo attended Baptist Boys’ High School in Abeokuta, in southwest Nigeria, and later worked as a teacher. Unable to afford college, he joined the army in 1958 and received officer training in England. Obasanjo rose quickly through the army ranks. During the Biafra conflict (1967–70) he was appointed to head a commando division that was stationed at the Biafran front in southeastern Nigeria. The conflict ended when Biafran forces surrendered to him in January 1970."
         }
       ],
       "contributors": [
@@ -143,7 +143,7 @@
         }
       ],
 
-      "moreinfo": "Olusegun Obasanjo, (born March 5, 1937, Abeokuta, Nigeria), Nigerian general, statesman, and diplomat, who was the first military ruler in Africa to hand over power to a civilian government. He served as Nigeria’s military ruler (1976–79) and, as a civilian, as president (1999–2007). Obasanjo attended Baptist Boys’ High School in Abeokuta, in southwest Nigeria, and later worked as a teacher. Unable to afford college, he joined the army in 1958 and received officer training in England. Obasanjo rose quickly through the army ranks. During the Biafra conflict (1967–70) he was appointed to head a commando division that was stationed at the Biafran front in southeastern Nigeria. The conflict ended when Biafran forces surrendered to him in January 1970."
+      "moreinfo": null
     },
     {
       "no": "12",
@@ -158,7 +158,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Abdusalam Abubakar, Abdusalam also spelled Abdusalami or Abdulsalam, (born June 13, 1942, Minna, Nigeria), Nigerian military leader, who served as head of state (1998–99). Hailing from the middle belt of the country, Abubakar joined the army in 1975 and received his formal military training in the United States. He commanded Nigeria’s contingent of United Nations peacekeeping troops in Lebanon in 1981. By the late 1980s he was a senior officer and in 1993 was named defense chief of staff by General Sani Abacha, who became Nigeria’s military ruler in that year."
         }
       ],
       "contributors": [
@@ -171,11 +171,10 @@
           "name": "Dammy Bells",
           "github_url": "https://github.com/damilola1732",
           "extra_url": null
-
         }
       ],
 
-      "moreinfo": "Abdusalam Abubakar, Abdusalam also spelled Abdusalami or Abdulsalam, (born June 13, 1942, Minna, Nigeria), Nigerian military leader, who served as head of state (1998–99). Hailing from the middle belt of the country, Abubakar joined the army in 1975 and received his formal military training in the United States. He commanded Nigeria’s contingent of United Nations peacekeeping troops in Lebanon in 1981. By the late 1980s he was a senior officer and in 1993 was named defense chief of staff by General Sani Abacha, who became Nigeria’s military ruler in that year."
+      "moreinfo": null
     },
     {
       "no": "11",
@@ -203,11 +202,7 @@
           "name": "Dammy Bells",
           "github_url": "https://github.com/damilola1732",
           "extra_url": null
-
         }
-
-
-
       ],
 
       "moreinfo": "Sani Abacha GCFR (About this soundpronunciation (20 September 1943 – 8 June 1998) was a Nigerian military general who served as the military head of state of Nigeria from 1993 until his death in 1998. He was also Chief of Army Staff between 1985 to 1990; Chief of Defence Staff between 1990 to 1993; and Minister of Defence. In 1993, Abacha became the first Nigerian Army officer to attain the rank of a full military general without skipping a single rank. His rule saw the achievement of several economic feats and also recorded human rights abuses and several political assassinations. He has been dubbed a kleptocrat and a dictator by several commentators. Abacha was born and brought up in Kano. He attended the Nigerian Military Training College in Kaduna, and was commissioned in 1963 after he had attended the Mons Officer Cadet School in Aldershot, England. The military career of Abacha was marked by involvement in all the military coups in Nigeria. When he was still a second lieutenant with the 3rd Battalion in Kaduna, he took part in the July 1966 Nigerian counter-coup from the conceptual stage. He could well have been a participant in the Lagos or Abeokuta phases of the coup the previous January as well. In addition, Abacha played a prominent role in the 1983 Nigerian coup d'état which brought General Muhammadu Buhari to power; and the 1985 Nigerian coup d'etat which removed Buhari and brought General Ibrahim Babangida to power. When General Ibrahim Babangida was named President and Commander-in-Chief of the Armed Forces of the Federal Republic of Nigeria in 1985, Abacha was named Chief of Army Staff. He was later appointed Minister of Defence in 1990"
@@ -323,7 +318,6 @@
           "github_url": "https://github.com/damilola1732",
           "extra_url": null
         }
-        
       ],
 
       "moreinfo": "Nnamdi Azikiwe, (born November 16, 1904, Zungeru, Nigeria—died May 11, 1996, Enugu), first president of independent Nigeria (1963–66) and prominent nationalist figure. Azikiwe attended various primary and secondary mission schools in Onitsha, Calabar, and Lagos. He arrived in the United States in 1925, where he attended several schools. Azikiwe earned multiple certificates and degrees, including bachelor’s and master’s degrees from Lincoln University in Pennsylvania and a second master’s degree from the University of Pennsylvania. In 1934 he went to the Gold Coast (now Ghana), where he founded a nationalist newspaper and was a mentor to Kwame Nkrumah (later the first president of Ghana) before returning to Nigeria in 1937. There he founded and edited newspapers and also became directly involved in politics, first with the Nigerian Youth Movement and later (1944) as a founder of the National Council of Nigeria and the Cameroons (NCNC), which became increasingly identified with the Igbo people of southern Nigeria after 1951. In 1948, with the backing of the NCNC, Azikiwe was elected to the Nigerian Legislative Council, and he later served as premier of the Eastern region (1954–59)."
@@ -426,7 +420,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Olusegun Obasanjo, (born March 5, 1937, Abeokuta, Nigeria), Nigerian general, statesman, and diplomat, who was the first military ruler in Africa to hand over power to a civilian government. He served as Nigeria’s military ruler (1976–79) and, as a civilian, as president (1999–2007). Obasanjo attended Baptist Boys’ High School in Abeokuta, in southwest Nigeria, and later worked as a teacher. Unable to afford college, he joined the army in 1958 and received officer training in England. Obasanjo rose quickly through the army ranks. During the Biafra conflict (1967–70) he was appointed to head a commando division that was stationed at the Biafran front in southeastern Nigeria. The conflict ended when Biafran forces surrendered to him in January 1970."
         }
       ],
       "contributors": [
@@ -437,7 +431,7 @@
         }
       ],
 
-      "moreinfo": "Olusegun Obasanjo, (born March 5, 1937, Abeokuta, Nigeria), Nigerian general, statesman, and diplomat, who was the first military ruler in Africa to hand over power to a civilian government. He served as Nigeria’s military ruler (1976–79) and, as a civilian, as president (1999–2007). Obasanjo attended Baptist Boys’ High School in Abeokuta, in southwest Nigeria, and later worked as a teacher. Unable to afford college, he joined the army in 1958 and received officer training in England. Obasanjo rose quickly through the army ranks. During the Biafra conflict (1967–70) he was appointed to head a commando division that was stationed at the Biafran front in southeastern Nigeria. The conflict ended when Biafran forces surrendered to him in January 1970."
+      "moreinfo": null
     },
     {
       "no": "1",
@@ -466,8 +460,8 @@
       "moreinfo": "Abubakar Tafawa Balewa was conceived in December 1912 in Bauchi State, Nigeria. Balewa is the only one in Nigerian history to have been bestowed with the title of federal Prime Minister. Balewa ventured into the Nigerian government in 1952 as Minister of Works, and later as Minister of Transport. In 1957, he was elected Chief Minister, forming an alliance government between the NPC and the National council for Nigeria, and the Cameroons. He assumed an important job in the transitional period among colonial and indigenous rule of Nigeria. His legacy was made through the collaboration between ethnic groups and mediation of other African conflicts. Following quite a while of colonial rule, the British Crown finally gave up authority to Nigeria. Sir Abubakar Tafawa with Queen Elizabeth II at that point ruled Nigeria as the first prime minister from 1960-1963. This was when Nigeria turned into a Republic."
     },
     {
-      "no": "53",
-      "name": "Yemi Osinbajo",
+      "no": "16",
+      "name": "Yemi Osinbajo SAN GCON",
       "tribe": null,
       "imgsrc": "Yemi-Osinbajo.jpg",
       "from": 2017,
@@ -478,7 +472,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Professor Yemi Osinbajo assumed the position of Acting President for a second time in January 2017, , a period of grave uncertainty over the health condition of President Muhammadu Buhari, who had been out of the country for well over 21 days on health grounds."
         }
       ],
       "contributors": [
@@ -488,6 +482,6 @@
           "extra_url": null
         }
       ]
-    }   
+    }
   ]
 }

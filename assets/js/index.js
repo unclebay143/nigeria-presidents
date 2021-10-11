@@ -10,16 +10,17 @@ const fetchPresidentData = async () => {
 async function generateRandomPresidentProfile() {
   const { presidents } = await fetchPresidentData();
 
-  // Generate a randotfm number
+  // Generate a random number
   let randomNumber = Math.floor(Math.random() * (presidents.length - 2));
 
   let randomPresident = presidents[randomNumber];
 
-  const { no, imgsrc, name, from, to, born, party, extra_information } = randomPresident;
+  const { no, imgsrc, name, from, to, born, party, extra_information } =
+    randomPresident;
 
   let randomPresidentCard = `
 
-       <div class="card-image">
+       <div class="card-image" onClick="viewMore('${no}')">
          <img
            load="lazy"
            src="./assets/portraits/${imgsrc}"
@@ -27,45 +28,28 @@ async function generateRandomPresidentProfile() {
            width="100%"
            height="100%"
          />
-   </div>
-   <br>
-     <div class="details">
-      <div class="name"> President ${name}</div>
-      <div class="tenure">From ${from} to ${to}</div>
-      <div class="born">Born: ${born}</div>
-
-      <div class="party">Party: ${party}</div>
-      <div class="bio">${
-        extra_information[0].bio
-          ? "Bio: " + extra_information[0].bio
-          : "Bio Not available "
-      }</div>
-     <button class="random-button" onclick="generateRandomPresidentProfile()">Random</button>
+        </div>
+        <br>
+        <div class="details">
+          <div class="name"> President ${name}</div>
+          <div class="tenure">From ${from} to ${to}</div>
+          <div class="born">Born: ${born}</div>
+          <div class="party">Party: ${party}</div>
+            <div class="bio">
+            ${
+              extra_information[0].bio
+                ? "Bio: " +
+                  extra_information[0].bio.slice(0, 300) +
+                  "...click image to read more"
+                : "Bio Not available "
+            }
+            </div>
+            <button class="random-button" onclick="generateRandomPresidentProfile()">Random</button>
+          </div>
+        </div>
       </div>
 
  `;
-  // const { name, no, from, to, born, party, extra_information } =
-    // randomPresident;
-
-  // let randomPresidentCard =
-    `
- <div class="random-president-card" onclick="viewMore('${no}')">
- 
- <div class="name"> President ${name}</div>
-  <div class="tenure">From ${from} to ${to}</div>
-  <div class="born">Born: ${born}</div>
-  
-  <div class="party">Party: ${party}</div>
-  <div class="bio">${
-    extra_information[0].bio
-      ? "Bio: " + extra_information[0].bio
-      : "Bio:  Not available "
-  }</div>      
-      </div>
-
- ` +
-    ` <button class="random-button" onclick="generateRandomPresidentProfile()">Random</button>
-     `;
 
   document.querySelector(".random-president").innerHTML = randomPresidentCard;
 }
