@@ -42,8 +42,9 @@
 .random-president {
   border: solid green 2px;
   border-radius: 5px;
+  height: 300px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   margin: 2% 20%;
@@ -51,15 +52,36 @@
   font-size: 0.8rem;
 }
 
+ .random-president .card-image{
+   display: flex;
+   flex-direction: column;
+  width: 45%;
+  height: 250px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  object-fit: cover;
+} 
+
+.random-president .details{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 250px;
+  margin: 30px;
+  padding: 30px;
+}
+
 .random-president .name,
 .random-president .tenure,
 .random-president .born,
 .random-president .party,
 .random-president .bio {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
   font-weight: bold;
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.4rem;
   font-size: 0.7rem;
-  text-align: center;
 }
 
 .random-president .name {
@@ -73,9 +95,10 @@
   background-color: green;
   color: white;
   padding: 5px 5px;
-  margin: 2%;
+  margin-top: 2%;
   cursor: pointer;
   font-size: 0.8rem;
+  width: 50%;
 }
 
 /* *Read more  */
@@ -164,10 +187,109 @@
   .random-president {
     margin: 2% 10%;
   }
+
+  main .sorting-btn {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  main .sorting-btn button {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 60%;
+    margin: 2%;
+  }
+
+  .random-president {
+    width: 80%;
+    margin-top: 10%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .random-president .card-image {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+  }
+
+  .random-president .details {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+  }
+
+  .random-president .random-button {
+    margin-left: 25%;
+  }
 }
+
+
+
 
 @media (max-width: 320px) {
   .card {
     width: 80%;
+  }
+
+  main .sorting-btn {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  main .sorting-btn button {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 60%;
+    margin: 2%;
+  }
+
+  .random-president {
+    margin-top: 10%;
+    width: 80%;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .random-president .card-image {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+  }
+
+  .random-president .details {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+  }
+
+  .random-president .random-button {
+    margin-left: 25%;
   }
 }
