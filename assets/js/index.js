@@ -28,22 +28,25 @@ async function generateRandomPresidentProfile() {
            width="100%"
            height="100%"
          />
-   </div>
-   <br>
-     <div class="details">
-      <div class="name"> President ${name}</div>
-      <div class="tenure">From ${from} to ${to}</div>
-      <div class="born">Born: ${born}</div>
-
-      <div class="party">Party: ${party}</div>
-      <div class="bio">${
-        extra_information[0].bio
-          ? "Bio: " +
-            extra_information[0].bio.slice(0, 300) +
-            "...click to read more"
-          : "Bio Not available "
-      }</div>
-     <button class="random-button" onclick="generateRandomPresidentProfile()">Random</button>
+        </div>
+        <br>
+        <div class="details">
+          <div class="name"> President ${name}</div>
+          <div class="tenure">From ${from} to ${to}</div>
+          <div class="born">Born: ${born}</div>
+          <div class="party">Party: ${party}</div>
+            <div class="bio">
+            ${
+              extra_information[0].bio
+                ? "Bio: " +
+                  extra_information[0].bio.slice(0, 300) +
+                  "...click image to read more"
+                : "Bio Not available "
+            }
+            </div>
+            <button class="random-button" onclick="generateRandomPresidentProfile()">Random</button>
+          </div>
+        </div>
       </div>
 
  `;
