@@ -15,7 +15,7 @@ async function generateRandomPresidentProfile() {
 
   let randomPresident = presidents[randomNumber];
 
-  const { imgsrc, name, from, to, born, party, extra_information } = randomPresident;
+  const { no, imgsrc, name, from, to, born, party, extra_information } = randomPresident;
 
   let randomPresidentCard = `
 
@@ -44,10 +44,10 @@ async function generateRandomPresidentProfile() {
       </div>
 
  `;
-  const { name, no, from, to, born, party, extra_information } =
-    randomPresident;
+  // const { name, no, from, to, born, party, extra_information } =
+    // randomPresident;
 
-  let randomPresidentCard =
+  // let randomPresidentCard =
     `
  <div class="random-president-card" onclick="viewMore('${no}')">
  

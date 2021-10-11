@@ -205,7 +205,7 @@
   .random-president {
     width: 80%;
     margin-top: 10%;
-    height: 500px;
+    height: 600px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -259,7 +259,7 @@
   .random-president {
     margin-top: 10%;
     width: 80%;
-    height: 500px;
+    height: 800px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -271,13 +271,13 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
-    
+    height: 150px;
   }
 
   .random-president .details {
     display: flex;
     flex-direction: column;
+    font-size: 0.5rem;
     width: 100%;
     height: 50%;
     text-align: center;
@@ -288,5 +288,8 @@
 
   .random-president .random-button {
     margin-left: 25%;
+    height: 35px;
+    margin-top: 0;
+    
   }
 }
