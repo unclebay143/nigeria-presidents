@@ -10,15 +10,44 @@ const fetchPresidentData = async () => {
 async function generateRandomPresidentProfile() {
   const { presidents } = await fetchPresidentData();
 
-  // Generate a random number
+  // Generate a randotfm number
   let randomNumber = Math.floor(Math.random() * (presidents.length - 2));
 
   let randomPresident = presidents[randomNumber];
 
-  const { name, no, from, to, born, party, extra_information } =
-    randomPresident;
+  const { no, imgsrc, name, from, to, born, party, extra_information } = randomPresident;
 
-  let randomPresidentCard =
+  let randomPresidentCard = `
+
+       <div class="card-image">
+         <img
+           load="lazy"
+           src="./assets/portraits/${imgsrc}"
+           alt="${name}"
+           width="100%"
+           height="100%"
+         />
+   </div>
+   <br>
+     <div class="details">
+      <div class="name"> President ${name}</div>
+      <div class="tenure">From ${from} to ${to}</div>
+      <div class="born">Born: ${born}</div>
+
+      <div class="party">Party: ${party}</div>
+      <div class="bio">${
+        extra_information[0].bio
+          ? "Bio: " + extra_information[0].bio
+          : "Bio Not available "
+      }</div>
+     <button class="random-button" onclick="generateRandomPresidentProfile()">Random</button>
+      </div>
+
+ `;
+  // const { name, no, from, to, born, party, extra_information } =
+    // randomPresident;
+
+  // let randomPresidentCard =
     `
  <div class="random-president-card" onclick="viewMore('${no}')">
  
@@ -93,6 +122,7 @@ const renderPresidentProfile = async (presidents) => {
   // append temp to the profile card in the ui
   profileCard.innerHTML = temp;
 };
+
 // SECTION TO SORT PRESIDENT BY RANK
 
 // render the president profile to the ui
@@ -139,6 +169,7 @@ const renderPresidentRank = async (presidents) => {
     </div>
   `;
   });
+
   profileCard.innerHTML = details;
 };
 //END OF SECTION TO SORT PRESIDENTS RANK
