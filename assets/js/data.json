@@ -151,7 +151,7 @@
         }
       ],
 
-      "moreinfo": "bio": "Olusegun Obasanjo, (born March 5, 1937, Abeokuta, Nigeria), Nigerian general, statesman, and diplomat, who was the first military ruler in Africa to hand over power to a civilian government. He served as Nigeria’s military ruler (1976–79) and, as a civilian, as president (1999–2007). Obasanjo attended Baptist Boys’ High School in Abeokuta, in southwest Nigeria, and later worked as a teacher. Unable to afford college, he joined the army in 1958 and received officer training in England. Obasanjo rose quickly through the army ranks. During the Biafra conflict (1967–70) he was appointed to head a commando division that was stationed at the Biafran front in southeastern Nigeria. The conflict ended when Biafran forces surrendered to him in January 1970."
+      "moreinfo":  "Olusegun Obasanjo, (born March 5, 1937, Abeokuta, Nigeria), Nigerian general, statesman, and diplomat, who was the first military ruler in Africa to hand over power to a civilian government. He served as Nigeria’s military ruler (1976–79) and, as a civilian, as president (1999–2007). Obasanjo attended Baptist Boys’ High School in Abeokuta, in southwest Nigeria, and later worked as a teacher. Unable to afford college, he joined the army in 1958 and received officer training in England. Obasanjo rose quickly through the army ranks. During the Biafra conflict (1967–70) he was appointed to head a commando division that was stationed at the Biafran front in southeastern Nigeria. The conflict ended when Biafran forces surrendered to him in January 1970."
     },
     {
       "no": "12",
@@ -193,7 +193,7 @@
         }
       ],
 
-      "moreinfo": "bio": "Abdusalam Abubakar, Abdusalam also spelled Abdusalami or Abdulsalam, (born June 13, 1942, Minna, Nigeria), Nigerian military leader, who served as head of state (1998–99). Hailing from the middle belt of the country, Abubakar joined the army in 1975 and received his formal military training in the United States. He commanded Nigeria’s contingent of United Nations peacekeeping troops in Lebanon in 1981. By the late 1980s he was a senior officer and in 1993 was named defense chief of staff by General Sani Abacha, who became Nigeria’s military ruler in that year."
+      "moreinfo":  "Abdusalam Abubakar, Abdusalam also spelled Abdusalami or Abdulsalam, (born June 13, 1942, Minna, Nigeria), Nigerian military leader, who served as head of state (1998–99). Hailing from the middle belt of the country, Abubakar joined the army in 1975 and received his formal military training in the United States. He commanded Nigeria’s contingent of United Nations peacekeeping troops in Lebanon in 1981. By the late 1980s he was a senior officer and in 1993 was named defense chief of staff by General Sani Abacha, who became Nigeria’s military ruler in that year."
     },
     {
       "no": "11",
@@ -468,7 +468,7 @@
         }
       ],
 
-      "moreinfo": "bio": "Olusegun Obasanjo, (born March 5, 1937, Abeokuta, Nigeria), Nigerian general, statesman, and diplomat, who was the first military ruler in Africa to hand over power to a civilian government. He served as Nigeria’s military ruler (1976–79) and, as a civilian, as president (1999–2007). Obasanjo attended Baptist Boys’ High School in Abeokuta, in southwest Nigeria, and later worked as a teacher. Unable to afford college, he joined the army in 1958 and received officer training in England. Obasanjo rose quickly through the army ranks. During the Biafra conflict (1967–70) he was appointed to head a commando division that was stationed at the Biafran front in southeastern Nigeria. The conflict ended when Biafran forces surrendered to him in January 1970."
+      "moreinfo":  "Olusegun Obasanjo, (born March 5, 1937, Abeokuta, Nigeria), Nigerian general, statesman, and diplomat, who was the first military ruler in Africa to hand over power to a civilian government. He served as Nigeria’s military ruler (1976–79) and, as a civilian, as president (1999–2007). Obasanjo attended Baptist Boys’ High School in Abeokuta, in southwest Nigeria, and later worked as a teacher. Unable to afford college, he joined the army in 1958 and received officer training in England. Obasanjo rose quickly through the army ranks. During the Biafra conflict (1967–70) he was appointed to head a commando division that was stationed at the Biafran front in southeastern Nigeria. The conflict ended when Biafran forces surrendered to him in January 1970."
     },
     {
       "no": "1",
@@ -483,7 +483,7 @@
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": null
+          "bio": "Abubakar Tafawa Balewa was born in December 1912 in modern-day Bauchi State, in the Northern Nigeria Protectorate. Balewa's father, Yakubu Dan Zala, was of Gere ethnicity,[2] and his mother Fatima Inna was of Gere and Fulani descent. His father worked in the house of the district head of Lere, a district within the Bauchi Emirate. He was a Nigerian politician who was the first and only Prime Minister of Nigeria"
         }
       ],
       "contributors": [
@@ -491,6 +491,11 @@
           "name": "Afolabi Mariam",
           "github_url": "https://github.com/mariamopeyemi",
           "extra_url": null
+        },
+        {
+          "name": "Ade-Samuel Victor",
+          "github_url": "https://github.com/victoradesamuel",
+          "extra_url": "https://victoradesamuel.github.io"
         }
       ],
 
