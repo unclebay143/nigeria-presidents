@@ -28,6 +28,9 @@ _figure 1.1_
 
 <hr />
 
+![new look](https://user-images.githubusercontent.com/53145644/137027280-40f03f8d-35c1-4a02-b9d1-3067eb393155.PNG)
+_figure 1.2_
+
 ## How to contribute
 
 1. 🍽 Fork this repository and don't forget to give a star ⭐  
