@@ -65,7 +65,7 @@ _figure 1.2 sample of president profile in json_
 
 10. 📩 Send a pull request to this repository  
 
-11. 😎 Enjoy your coffee ☕ while the maintener reviews your pull request  
+11. 😎 Enjoy your coffee ☕ while the maintainer reviews your pull request  
 
 P.S: You will get a notification when your PR is merged or needs a fix.
 
