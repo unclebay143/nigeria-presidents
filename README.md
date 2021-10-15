@@ -41,7 +41,7 @@ _figure 1.2_
 
 4. 👀 Search for any Nigeria president that you are interested to contribute their profile  
 
-5. ⬇ Download any of their clean image into the protrait folder in the project   
+5. ⬇ Download any of their clean image into the portrait folder in the project   
 
 6. 🔀 Rename the image name to President-name-of-the-president.the-file-extension (check existing images)  
 
@@ -63,7 +63,16 @@ _figure 1.2 sample of president profile in json_
 
 9. ➕ Add and commit your changes  
 
-10. 📩 Send a pull request to this repository  
+10. 📩 Send a pull request to this repository
+
+PS:  A pull request template has been added to this repository. When you do a pull request, 
+describe what the pull request will do under **What does this PR do** , and the tasks you 
+have done beneath **Description of task to be completed**. 
+When you are done, click the pull request button as shown in the image below.
+
+![pull-request](https://user-images.githubusercontent.com/25479050/137454057-24befdd1-a325-4473-b6c4-bab39292129d.png)
+
+_figure 1.3 image of the embedded pull request template_
 
 11. 😎 Enjoy your coffee ☕ while the maintainer reviews your pull request  
 
