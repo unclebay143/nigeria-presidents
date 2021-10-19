@@ -23,13 +23,20 @@ _figure 1.0_
 
 <hr />
 
-![image](https://user-images.githubusercontent.com/58919619/135591991-38b519ae-4ca8-41d0-b8c4-ca46eedbfa37.png)
+![image2](https://user-images.githubusercontent.com/82599833/137627539-c2155872-39ac-4aa8-b778-1e8090fee79e.PNG)
 _figure 1.1_
 
 <hr />
 
 ![new look](https://user-images.githubusercontent.com/53145644/137027280-40f03f8d-35c1-4a02-b9d1-3067eb393155.PNG)
 _figure 1.2_
+
+<hr />
+
+![look1](https://user-images.githubusercontent.com/82599833/137627267-6a3f06fd-9f05-4d4c-8b96-d12ef51947a6.PNG)
+_figure 1.3_
+
+
 
 ## How to contribute
 
