@@ -47,8 +47,6 @@ _figure 1.2_
 
 6. 🔀 Rename the image name to President-name-of-the-president.the-file-extension (check existing images)  
 
-7. ➕ Add your name to the `contributors.md` file
-
 <hr />
 
 Note ⚠: There is no endpoint to get the list of all the Nigeria president but `data.json` is doing just that for us  
@@ -68,6 +66,8 @@ _figure 1.2 sample of president profile in json_
 9. ➕ Add and commit your changes  
 
 10. 📩 Send a pull request to this repository
+
+11. ➕ Add your name to the `CONTRIBUTORS.md` file
 
 PS:  A pull request template has been added to this repository. When you do a pull request, 
 describe what the pull request will do under **What does this PR do** , and the tasks you 
