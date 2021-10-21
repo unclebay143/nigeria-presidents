@@ -18,12 +18,12 @@ Visit Site: [🔗 take me there](https://nigeria-presidents.netlify.app/)
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/58919619/135591298-34af9d47-95a4-49c3-83db-d159a7be12cf.png)
+![image](https://user-images.githubusercontent.com/89260484/138230035-012a39a6-0296-4517-83d4-71feeff0e053.png)
 _figure 1.0_
 
 <hr />
 
-![image2](https://user-images.githubusercontent.com/82599833/137627539-c2155872-39ac-4aa8-b778-1e8090fee79e.PNG)
+![image2](https://user-images.githubusercontent.com/89260484/138231129-6f387715-2b5e-4865-a5ee-d9fb4e84240d.png)
 _figure 1.1_
 
 <hr />
