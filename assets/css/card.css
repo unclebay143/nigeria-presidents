@@ -14,7 +14,7 @@
 .card {
   margin: 1rem;
   width: 200px;
-  height: auto;
+  height: 100%;
   cursor: pointer;
   position: relative;
 }

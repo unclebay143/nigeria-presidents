@@ -8,7 +8,7 @@ const fetchPresidentData = async () => {
 
 const renderPresidentInformation = ({
     name,
-    extraInformation,
+    extra_information,
     imgsrc,
     moreinfo,
 }) => {
@@ -17,7 +17,7 @@ const renderPresidentInformation = ({
     const moreInfoContainer = document.getElementById("js-president-moreinfo");
 
     presidentNameContainer.innerHTML = name;
-    moreInfoContainer.innerHTML = moreinfo || extraInformation[0].bio;
+    moreInfoContainer.innerHTML = moreinfo || extra_information[0].bio;
     presidentImageHolder.setAttribute("src", `./../assets/portraits/${imgsrc}`);
 };
 
