@@ -18,12 +18,12 @@ Visit Site: [🔗 take me there](https://nigeria-presidents.netlify.app/)
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/58919619/135591298-34af9d47-95a4-49c3-83db-d159a7be12cf.png)
-_figure 1.0_
+![image](https://user-images.githubusercontent.com/89260484/138230035-012a39a6-0296-4517-83d4-71feeff0e053.png)
+_figure 1.0_ :- first page content 
 
 <hr />
 
-![image2](https://user-images.githubusercontent.com/82599833/137627539-c2155872-39ac-4aa8-b778-1e8090fee79e.PNG)
+![image2](https://user-images.githubusercontent.com/89260484/138231129-6f387715-2b5e-4865-a5ee-d9fb4e84240d.png)
 _figure 1.1_
 
 <hr />
@@ -32,11 +32,6 @@ _figure 1.1_
 _figure 1.2_
 
 <hr />
-
-![look1](https://user-images.githubusercontent.com/82599833/137627267-6a3f06fd-9f05-4d4c-8b96-d12ef51947a6.PNG)
-_figure 1.3_
-
-
 
 ## How to contribute
 
@@ -62,7 +57,7 @@ Note ⚠: There is no endpoint to get the list of all the Nigeria president but 
 
 PS: you can add more information about the president that is not stated in the object under `extra_information`
 
-![readMe-image](https://user-images.githubusercontent.com/58919619/135597758-bd6093c2-8278-4e7d-9c4d-f777a860eaee.png)
+![readMe-image](https://user-images.githubusercontent.com/89260484/138241827-58c6e14f-38bc-4924-baee-2abb97693d1a.png)
 
 _figure 1.2 sample of president profile in json_    
 
