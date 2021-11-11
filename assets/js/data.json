@@ -31,7 +31,7 @@
       "tribe": "Hausa Fulani",
       "imgsrc": "President-Muhammadu-Buhari-President.jpg",
       "from": 2015,
-      "to": "tilldate",
+      "to": "to-date",
       "reason": null,
       "born": 1942,
       "party": "APC",
@@ -59,7 +59,7 @@
     {
       "no": "15",
       "name": "Dr. Goodluck Ebele Jonathan",
-      "tribe": "Igbo",
+      "tribe": "Ijaw",
       "imgsrc": "President-Goodluck-Ebele-Jonathan.png",
       "from": 2011,
       "to": 2015,
@@ -134,7 +134,7 @@
       "to": 2007,
       "reason": "Transfer of power",
       "born": 1937,
-      "party": "APC",
+      "party": "PDP",
       "diedInOffice": false,
       "extra_information": [
         {
@@ -165,7 +165,7 @@
       "to": 1999,
       "reason": "resigned",
       "born": 1942,
-      "party": "PRC",
+      "party": "none: (military)",
       "diedInOffice": false,
       "extra_information": [
         {
@@ -232,7 +232,7 @@
       "to": 1993,
       "reason": "resigned",
       "born": 1941,
-      "party": "PDP",
+      "party": "none: (military)",
       "diedInOffice": false,
       "extra_information": [
         {
@@ -259,11 +259,11 @@
       "to": 1985,
       "reason": "deposed",
       "born": 1942,
-      "party": "APC",
+      "party": "none: (military)",
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": "Muhammadu Buhari GCFR is a Nigerian politician who has been president of Nigeria since 2015. Buhari is a retired Nigerian Army Major General and has served as military head of state in Nigeria between 1983 to 1985, after taking power in a military coup d'état."
+          "bio": "Buhari is a retired Nigerian Army Major General and has served as military head of state in Nigeria between 1983 to 1985, after taking power in a military coup d'état."
         }
       ],
       "contributors": [
