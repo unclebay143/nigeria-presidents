@@ -31,7 +31,7 @@
       "tribe": "Hausa Fulani",
       "imgsrc": "President-Muhammadu-Buhari-President.jpg",
       "from": 2015,
-      "to": "tilldate",
+      "to": "to-date",
       "reason": null,
       "born": 1942,
       "party": "APC",
@@ -59,7 +59,7 @@
     {
       "no": "15",
       "name": "Dr. Goodluck Ebele Jonathan",
-      "tribe": "Igbo",
+      "tribe": "Ijaw",
       "imgsrc": "President-Goodluck-Ebele-Jonathan.png",
       "from": 2011,
       "to": 2015,
@@ -134,7 +134,7 @@
       "to": 2007,
       "reason": "Transfer of power",
       "born": 1937,
-      "party": "APC",
+      "party": "PDP",
       "diedInOffice": false,
       "extra_information": [
         {
@@ -165,7 +165,7 @@
       "to": 1999,
       "reason": "resigned",
       "born": 1942,
-      "party": "PRC",
+      "party": "none: (military)",
       "diedInOffice": false,
       "extra_information": [
         {
@@ -232,7 +232,7 @@
       "to": 1993,
       "reason": "resigned",
       "born": 1941,
-      "party": "PDP",
+      "party": "none: (military)",
       "diedInOffice": false,
       "extra_information": [
         {
@@ -259,11 +259,11 @@
       "to": 1985,
       "reason": "deposed",
       "born": 1942,
-      "party": "APC",
+      "party": "none: (military)",
       "diedInOffice": false,
       "extra_information": [
         {
-          "bio": "Muhammadu Buhari GCFR is a Nigerian politician who has been president of Nigeria since 2015. Buhari is a retired Nigerian Army Major General and has served as military head of state in Nigeria between 1983 to 1985, after taking power in a military coup d'état."
+          "bio": "Buhari is a retired Nigerian Army Major General and has served as military head of state in Nigeria between 1983 to 1985, after taking power in a military coup d'état."
         }
       ],
       "contributors": [
@@ -485,37 +485,7 @@
       ],
 
       "moreinfo": "Abubakar Tafawa Balewa was conceived in December 1912 in Bauchi State, Nigeria. His father, Yakubu Dan Zala, was of Gere ethnicity, and his mother Fatima Inna was of Gere and Fulani descent. Balewa is the only one in Nigerian history to have been bestowed with the title of federal Prime Minister. Balewa ventured into the Nigerian government in 1952 as Minister of Works, and later as Minister of Transport. In 1957, he was elected Chief Minister, forming an alliance government between the NPC and the National council for Nigeria, and the Cameroons. He assumed an important job in the transitional period among colonial and indigenous rule of Nigeria. His legacy was made through the collaboration between ethnic groups and mediation of other African conflicts. Following quite a while of colonial rule, the British Crown finally gave up authority to Nigeria. Sir Abubakar Tafawa with Queen Elizabeth II at that point ruled Nigeria as the first prime minister from 1960-1963. This was when Nigeria turned into a Republic. The Balewa government created an official Foreign Affairs and Commonwealth Relations ministerial position in favour of Jaja Wachuku who became, from 1961 to 1965, the first substantive Nigerian Minister of Foreign Affairs and Commonwealth Relations, later called External Affairs."
-    },
-    {
-      "no": "16.5",
-      "name": "Yemi Osinbajo SAN GCON",
-      "tribe": "Yoruba",
-      "imgsrc": "Yemi-Osinbajo.jpg",
-      "from": 2017,
-      "to": 2017,
-      "reason": null,
-      "born": 1957,
-      "party": "APC",
-      "diedInOffice": false,
-      "extra_information": [
-        {
-          "bio": "Professor Yemi Osinbajo assumed the position of Acting President for a second time in January 2017, , a period of grave uncertainty over the health condition of President Muhammadu Buhari, who had been out of the country for well over 21 days on health grounds."
-        }
-      ],
-      "contributors": [
-        {
-          "name": "Collins Mbathi",
-          "github_url": "https://github.com/colins87mbathi",
-          "extra_url": null
-        },
-        {
-          "name": "DammyBells",
-          "github_url": "https://github.com/Damilola1732",
-          "extra_url": null
-        }
-      ],
-
-      "moreinfo":  "Yemi Osinbajo was born into the family of Opeoluwa Osinbajo on 8 March 1957, Creek Hospital, Lagos. Osinbajo is married to Dolapo (née Soyode) Osinbajo, a granddaughter of Obafemi Awolowo. Yemi Osinbajo was educated at Corona primary School, in Lagos. He attended Igbobi College Yaba Lagos, Nigeria from 1969 to 1975, In 1981, he was employed as a law lecturer at the University of Lagos, Nigeria. From 1983 to 1986, he was Senior lecturer of Law at the University of Lagos. From 1988 to 1992. Yemi Osinbajo is the Pastor in charge of the Lagos Province 48 (Olive Tree provincial headquarters) of The Redeemed Christian Church of God. President Muhammadu Buhari wrote a written declaration on 9 May 2017 to the president of the senate and house of representatives on his decision to embark on a medical trip, Vice president, Professor Yemi Osinbajo was conferred the acting president during president Buhari's medical leave. On 7 August 2018, Osinbajo fired the State Security Service boss, Lawal Daura for illegal invasion of National Assembly by armed and masked operatives of the department. Daura has been replaced with Matthew Seiyefa. "
     }
+    
   ]
 }
