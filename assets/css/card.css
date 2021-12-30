@@ -1,3 +1,9 @@
+:root {
+  --primary-color: green;
+  --secondary-color: #ffffff;
+  --primary-font: "Montserrat";
+}
+
 /* *PROFILE SECTION */
 .profile-cards {
   display: flex;
@@ -8,7 +14,7 @@
 .card {
   margin: 1rem;
   width: 200px;
-  height: auto;
+  height: 100%;
   cursor: pointer;
   position: relative;
 }
@@ -29,6 +35,71 @@
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
   object-fit: cover;
+  cursor: pointer;
+}
+
+/* RANDOM PRESIDENT SECTION */
+
+.random-president {
+  border: solid green 2px;
+  border-radius: 5px;
+  height: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 2% 20%;
+  padding: 2%;
+  font-size: 0.8rem;
+}
+
+.random-president .card-image {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  height: 250px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  object-fit: cover;
+}
+
+.random-president .details {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 250px;
+  margin: 30px;
+  padding: 30px;
+}
+
+.random-president .name,
+.random-president .tenure,
+.random-president .born,
+.random-president .party,
+.random-president .bio {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  font-weight: bold;
+  margin-bottom: 0.4rem;
+  font-size: 0.7rem;
+}
+
+.random-president .name {
+  color: green;
+  font-size: 1rem;
+}
+
+.random-president .random-button {
+  border: solid green 5px;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  padding: 5px 5px;
+  margin-top: 2%;
+  cursor: pointer;
+  font-size: 0.8rem;
+  width: 50%;
 }
 
 /* *Read more  */
@@ -40,7 +111,7 @@
   height: 45%;
   margin-top: -0.4rem;
   border-top: 0;
-  border: 0.8px solid green;
+  border: 0.8px solid var(--primary-color);
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
   display: flex;
@@ -58,7 +129,7 @@
 .card-info {
   padding-top: 0.7rem;
   z-index: 2;
-  background: white;
+  background: var(--secondary-color);
 }
 
 .card-info:hover {
@@ -72,7 +143,10 @@
 .card-info .name {
   font-size: 15px;
   margin-bottom: 0.5rem;
-  background: -webkit-linear-gradient(green, green);
+  background: -webkit-linear-gradient(
+    var(--primary-color),
+    var(--primary-color)
+  );
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -105,14 +179,117 @@
     height: auto;
   }
 
-  /* ? is there a need for read more button on small devices */
   .read-more {
+    height: 40%;
+    /* ? is there a need for read more button on small devices */
     /* display: none; */
+  }
+
+  .random-president {
+    margin: 2% 10%;
+  }
+
+  main .sorting-btn {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  main .sorting-btn button {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    /* width: 60%; */
+    margin: 2%;
+    text-align: center;
+  }
+
+  .random-president {
+    width: 80%;
+    margin-top: 10%;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .random-president .card-image {
+    cursor: pointer;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .random-president .details {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+  }
+
+  .random-president .random-button {
+    margin-left: 25%;
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 320px) {
   .card {
     width: 80%;
+  }
+
+  main .sorting-btn {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  main .sorting-btn button {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 60%;
+    margin: 2%;
+  }
+
+  .random-president {
+    margin-top: 10%;
+    width: 80%;
+    height: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .random-president .card-image {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 150px;
+  }
+
+  .random-president .details {
+    display: flex;
+    flex-direction: column;
+    font-size: 0.5rem;
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+  }
+
+  .random-president .random-button {
+    margin-left: 25%;
+    height: 35px;
+    margin-top: 0;
   }
 }

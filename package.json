@@ -1,0 +1,26 @@
+{
+  "name": "nigeria-presidents",
+  "version": "1.0.0",
+  "description": "Profile list of Nigeria past to present Presidents who ruled from 1960 till date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrinmay-santra/nigeria-presidents.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrinmay-santra/nigeria-presidents/issues"
+  },
+  "homepage": "https://github.com/mrinmay-santra/nigeria-presidents#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.1"
+  }
+}
